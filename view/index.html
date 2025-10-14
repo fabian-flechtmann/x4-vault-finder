@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html>
+    <header>
+        <script type="text/javascript" src="plotly-3.1.1.min.js"></script>
+        <script type="text/javascript" src="data.js"></script>
+        <script type="text/javascript">
+            function getColor(o) {
+                if (o["owner"] == "khaak") {
+                    return "crimson"
+                }
+                else if (o["class"] == "station") {
+                    return "#888"
+                }
+                else if (o["has_blueprints"]){
+                    return "dodgerblue"
+                }
+                else if (o["has_wares"]){
+                    return "blueviolet"
+                }
+                else {
+                    return "peru"
+                }
+            }
+            function getHoverText(o) {
+                if (o["class"] == "station") {
+                    return o["owner"] + " station"
+                }
+                else if (o["has_blueprints"]) {
+                    return "Vault with blueprints"
+                }
+                else if (o["has_wares"]) {
+                    return "Vault with wares"
+                }
+                else {
+                    return "Vault (empty)"
+                }
+            }
+            function show(sector_id) {
+                let sector = data.sectors[sector_id]
+                let objects = Object.values(sector["objects"])
+                let points = [{
+                    x: objects.map(o => o["x"]),
+                    y: objects.map(o => o["y"]),
+                    z: objects.map(o => o["z"]),
+                    hoverinfo: 'text',
+                    hovertext: objects.map(getHoverText),
+                    marker: {
+                        size: 5,
+                        color: objects.map(getColor)
+                    },
+                    mode: "markers+text",
+                    name: sector,
+                    text: objects.map(o => o["code"]),
+                    textfont: {
+                        color: "#fafafa"
+                    },
+                    type: "scatter3d"
+                }]
+                let layout = {
+                    margin: {
+                        l: 0,
+                        r: 0,
+                        b: 0,
+                        t: 0
+                    },
+                    paper_bgcolor: "#252627",
+                    scene: {
+                        xaxis: {
+                            title: "X",
+                            color: "#fafafa",
+                            gridcolor: "#888",
+                            zerolinecolor: "#fafafa",
+                            autorange: "reversed"
+                        },
+                        yaxis: {
+                            title: "Y",
+                            color: "#fafafa",
+                            gridcolor: "#888",
+                            zerolinecolor: "#fafafa"
+                        },
+                        zaxis: {
+                            title: "Z",
+                            color: "#fafafa",
+                            gridcolor: "#888",
+                            zerolinecolor: "#fafafa"
+                        },
+                        aspectmode: "data",
+                        camera: {
+                            eye: { x: 0, y: 4, z: 0 },
+                            up: { x: 0, y: 0, z: 1 }
+                        }
+                    }
+                };
+                Plotly.newPlot("content", points, layout);
+            }
+            function maybe_loot_tag(sector_data) {
+                let has_blueprints = false;
+                let has_wares = false;
+                let has_empty_vault = false;
+                for (let [code, object_data] of Object.entries(sector_data["objects"])) {
+                    if (object_data["has_blueprints"]) {
+                        has_blueprints = true;
+                    }
+                    if (object_data["has_wares"]) {
+                        has_wares = true;
+                    }
+                    if (!object_data["has_blueprints"] && !object_data["has_wares"] && (object_data["class"] == "datavault" || object_data["macro"].includes("erlking_vault"))) {
+                        has_empty_vault = true;
+                    }
+                }
+                if (has_blueprints) {
+                    return `<span class="tag blueprints">Vault with blueprints</span>`
+                }
+                else if (has_wares) {
+                    return `<span class="tag wares">Vault with wares</span>`
+                }
+                else if (has_empty_vault) {
+                    return `<span class="tag empty">Vault (empty)</span>`
+                }
+                else {
+                    return ""
+                }
+            }
+            function maybe_khaak_tag(sector_data) {
+                let has_khaak_station = false;
+                for (let [code, object_data] of Object.entries(sector_data["objects"])) {
+                    if (object_data["owner"] == "khaak") {
+                        has_khaak_station = true;
+                        break;
+                    }
+                }
+                if (has_khaak_station) {
+                    return `<span class="tag khaak">Khaak station</span>`
+                }
+                else {
+                    return ""
+                }
+            }
+            window.addEventListener("load", function () {
+                let sidebar = document.getElementById("sidebar")
+                sector_names = Object.keys(data["sectors"])
+                    .map(function(k) {
+                        return {
+                            "name": data["sectors"][k]["name"],
+                            "id": k
+                        }
+                    })
+                sector_names.sort((a, b) => a["name"] == b["name"] ? 0 : (a["name"] < b["name"] ? -1 : 1))
+                for (let i = 0; i < sector_names.length; i++) {
+                    let sector_id = sector_names[i]["id"]
+                    let sector_name = sector_names[i]["name"]
+                    let sector_data = data["sectors"][sector_id]
+                    let html = `
+                    <div>
+                        <a onclick="show('${sector_id}')" class="sector">
+                            ${sector_name}
+                        </a>
+                        ${maybe_loot_tag(sector_data)}
+                        ${maybe_khaak_tag(sector_data)}
+                    </div>
+                    `
+                    sidebar.insertAdjacentHTML("beforeend", html)
+                }
+            });
+            window.addEventListener("resize", () => {
+                Plotly.Plots.resize("content");
+            });
+        </script>
+        <style>
+            html {
+                height: 100%;
+                font-family: ui-sans-serif,-apple-system,system-ui,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
+            }
+
+            body {
+                background-color: #252627;
+                height: 100%;
+                margin: 0;
+            }
+
+            a {
+                color: #fafafa;
+                cursor: pointer;
+                margin-left: 6px;
+            }
+
+            .tag {
+                display: inline-block;
+                color: #fafafa;
+                font-size: 0.7rem;
+                font-weight: bold;
+                border-radius: 4px;
+                padding: 2px 6px;
+                margin-left: 6px;
+                vertical-align: middle;
+            }
+
+            .blueprints {
+                background: dodgerblue;
+            }
+
+            .wares {
+                background: blueviolet;
+            }
+
+            .empty {
+                background: peru;
+            }
+
+            .khaak {
+                background: crimson;
+            }
+
+            #wrapper {
+                height: 100%;
+                width: 100%;
+            }
+
+            #sidebar {
+                float: left;
+                height: 100%;
+                overflow-y: scroll;
+                width: 20%;
+            }
+
+            #content {
+                float: left;
+                height: 100%;
+                width: 80%;
+            }
+        </style>
+    </header>
+    <body>
+        <div id="wrapper">
+            <div id="sidebar"></div>
+            <div id="content"></div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,8018 @@
+{
+   "tzonecluster_black2_sector01_zone_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_black2_sector01_zone02_macro": {
+      "x": 100000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_black_sector01_zone_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_black_sector01_zone02_macro": {
+      "x": 100000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_black_wl_sector01_zone_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_black_wl_sector01_zone02_macro": {
+      "x": 100000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "mainmenu_scene_zone1_macro": {
+      "x": 11406.25,
+      "y": -90107.91,
+      "z": 457843.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector001shcon5_gatezone_macro": {
+      "x": 39898.99609375,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector001shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector001shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 39999.71875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector001shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_01_sector001_macro": {
+      "x": 68625.484375,
+      "y": 0.0,
+      "z": -37668.13671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_01_sector001_macro": {
+      "x": 45157.97265625,
+      "y": 0.0,
+      "z": 164934.765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_01_sector001_macro": {
+      "x": -166831.9375,
+      "y": 0.0,
+      "z": 46814.92578125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_01_sector001_macro": {
+      "x": 143765.046875,
+      "y": 0.0,
+      "z": 148432.28125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_01_sector01_macro": {
+      "x": 585172.125,
+      "y": -65343.75,
+      "z": -424218.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector002shcon5_gatezone_macro": {
+      "x": 40468.75,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector002shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector002shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -40047.8515625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector002shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_01_sector002_macro": {
+      "x": 38722.65625,
+      "y": 0.0,
+      "z": 173126.953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_01_sector002_macro": {
+      "x": 163730.46875,
+      "y": 0.0,
+      "z": -46467.7734375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_01_sector002_macro": {
+      "x": 36609.375,
+      "y": 0.0,
+      "z": -119380.859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_01_sector002_macro": {
+      "x": -106542.96875,
+      "y": 0.0,
+      "z": -84961.9140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_01_sector002_macro": {
+      "x": -85421.875,
+      "y": 0.0,
+      "z": 37069.3359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector002_macro": {
+      "x": 354000.0,
+      "y": 22000.0,
+      "z": 17000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector003shcon4_gatezone_macro": {
+      "x": 160195.3125,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector003shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector003shcon10_gatezone_macro": {
+      "x": -39492.1875,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_01_sector003shcon12_gatezone_macro": {
+      "x": 170218.75,
+      "y": 0.0,
+      "z": -200035.15625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_01_sector003_macro": {
+      "x": 32882.8125,
+      "y": 0.0,
+      "z": 107679.6875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_01_sector003_macro": {
+      "x": 163507.8125,
+      "y": 0.0,
+      "z": -150062.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_01_sector003_macro": {
+      "x": -50039.0625,
+      "y": 0.0,
+      "z": -153585.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_02_sector001_macro": {
+      "x": -87085.0625,
+      "y": 0.0,
+      "z": -89801.140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_02_sector001_macro": {
+      "x": 110416.3203125,
+      "y": 0.0,
+      "z": 83192.765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_02_sector001_macro": {
+      "x": -79336.4140625,
+      "y": 0.0,
+      "z": 96889.015625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_03_sector001_macro": {
+      "x": 136099.1875,
+      "y": 0.0,
+      "z": 95815.78125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_03_sector001_macro": {
+      "x": -74079.65625,
+      "y": 0.0,
+      "z": 102953.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_03_sector001_macro": {
+      "x": -65355.25390625,
+      "y": 0.0,
+      "z": -80258.5703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_04_sector001shcon6_gatezone_macro": {
+      "x": 39948.3359375,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_04_sector001shcon10_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_04_sector001_macro": {
+      "x": 43763.25390625,
+      "y": 0.0,
+      "z": -153542.640625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_04_sector001_macro": {
+      "x": -86161.1015625,
+      "y": 0.0,
+      "z": -27367.986328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_04_sector001_macro": {
+      "x": 113126.984375,
+      "y": 0.0,
+      "z": 136241.921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone020_cluster_04_sector001_macro": {
+      "x": 795808.0,
+      "y": 0.0,
+      "z": 889770.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone017_cluster_04_sector001_macro": {
+      "x": 325770.0,
+      "y": 0.0,
+      "z": 156231.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone014_cluster_04_sector001_macro": {
+      "x": 613748.0,
+      "y": 0.0,
+      "z": 409677.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone012_cluster_04_sector001_macro": {
+      "x": 297325.75,
+      "y": 0.0,
+      "z": 533514.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone011_cluster_04_sector001_macro": {
+      "x": 863285.0,
+      "y": 0.0,
+      "z": 555921.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone010_cluster_04_sector001_macro": {
+      "x": 743979.5,
+      "y": 0.0,
+      "z": 726908.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone009_cluster_04_sector001_macro": {
+      "x": 636742.25,
+      "y": 0.0,
+      "z": 814874.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone007_cluster_04_sector001_macro": {
+      "x": 661036.125,
+      "y": 0.0,
+      "z": 633698.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone008_cluster_04_sector001_macro": {
+      "x": 446002.0,
+      "y": 0.0,
+      "z": 506310.125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_04_sector001_macro": {
+      "x": 404746.125,
+      "y": 0.0,
+      "z": 277341.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_04_sector001_macro": {
+      "x": 790515.3125,
+      "y": 0.0,
+      "z": 956214.1875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_04_sector001_macro": {
+      "x": 457655.34375,
+      "y": 0.0,
+      "z": 381549.59375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone015_cluster_04_sector001_macro": {
+      "x": 569047.5,
+      "y": 0.0,
+      "z": 540347.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone016_cluster_04_sector001_macro": {
+      "x": 413067.0,
+      "y": 0.0,
+      "z": 667920.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone013_cluster_04_sector001_macro": {
+      "x": -23423.0,
+      "y": 0.0,
+      "z": 111898.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone019_cluster_04_sector001_macro": {
+      "x": 202528.0,
+      "y": 0.0,
+      "z": 285878.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone018_cluster_04_sector001_macro": {
+      "x": 89093.0,
+      "y": 0.0,
+      "z": 607.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_04_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_04_sector002shcon9_gatezone_macro": {
+      "x": -39333.7421875,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_04_sector002_macro": {
+      "x": -41734.3125,
+      "y": 0.0,
+      "z": 166070.3125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_04_sector002_macro": {
+      "x": 107094.7265625,
+      "y": 0.0,
+      "z": -97949.21875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_05_sector001_macro": {
+      "x": -17177.61328125,
+      "y": 0.0,
+      "z": 83957.8984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_05_sector001_macro": {
+      "x": -118114.5546875,
+      "y": 0.0,
+      "z": -103206.5078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_05_sector001_macro": {
+      "x": 52811.34765625,
+      "y": 0.0,
+      "z": -95246.0859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_05_sector001_macro": {
+      "x": 70192.2578125,
+      "y": 0.0,
+      "z": -1598.5642089844,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_06_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 15.5868530273,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_06_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -9922.0888671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_06_sector001_macro": {
+      "x": 26852.755859375,
+      "y": 0.0,
+      "z": -105772.03125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_06_sector001_macro": {
+      "x": -85770.6484375,
+      "y": 0.0,
+      "z": 93376.3671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_06_sector001_macro": {
+      "x": 165479.40625,
+      "y": 0.0,
+      "z": -6450.6606445312,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_06_sector002shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 113416.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_06_sector002shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 103443.359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_06_sector002_macro": {
+      "x": -155000.0,
+      "y": 0.0,
+      "z": 106263.671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_06_sector002_macro": {
+      "x": -89757.8125,
+      "y": 0.0,
+      "z": -93534.1796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_06_sector002_macro": {
+      "x": 113093.75,
+      "y": 0.0,
+      "z": -85378.90625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_06_sector002_macro": {
+      "x": 89656.25,
+      "y": 0.0,
+      "z": 98108.3984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_07_sector001_macro": {
+      "x": -869.4458007812,
+      "y": 0.0,
+      "z": 84464.859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_07_sector001_macro": {
+      "x": 8304.947265625,
+      "y": 0.0,
+      "z": -124507.3125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_07_sector001_macro": {
+      "x": 173159.984375,
+      "y": 0.0,
+      "z": 6001.0317382812,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_08_sector001_macro": {
+      "x": -258.1977844238,
+      "y": 0.0,
+      "z": 78112.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_08_sector001_macro": {
+      "x": 76826.984375,
+      "y": 0.0,
+      "z": -3111.8012695312,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_08_sector001_macro": {
+      "x": -147944.453125,
+      "y": 0.0,
+      "z": -67755.9140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_08_sector001_macro": {
+      "x": 26130.646484375,
+      "y": 0.0,
+      "z": -142359.53125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_08_sector001_macro": {
+      "x": -35243.1796875,
+      "y": 0.0,
+      "z": -24661.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_09_sector001_macro": {
+      "x": -476.5892028809,
+      "y": 0.0,
+      "z": 82222.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_09_sector001_macro": {
+      "x": 8893.9130859375,
+      "y": 0.0,
+      "z": -111674.546875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_09_sector001_macro": {
+      "x": 152552.3125,
+      "y": 0.0,
+      "z": -91995.1875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_09_sector001_macro": {
+      "x": 152042.625,
+      "y": 0.0,
+      "z": 131248.265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_09_sector001_macro": {
+      "x": -149183.125,
+      "y": 0.0,
+      "z": -4328.8134765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_09_sector001_macro": {
+      "x": -15415.466796875,
+      "y": 0.0,
+      "z": -12223.9833984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_10_sector001_macro": {
+      "x": -79242.234375,
+      "y": 0.0,
+      "z": 5013.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_10_sector001_macro": {
+      "x": 90039.9140625,
+      "y": 0.0,
+      "z": 105351.0703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_10_sector001_macro": {
+      "x": 80190.84375,
+      "y": 0.0,
+      "z": -99632.9453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_10_sector001_macro": {
+      "x": 8767.76171875,
+      "y": 0.0,
+      "z": 43283.76171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_11_sector001_macro": {
+      "x": 1520.3857421875,
+      "y": 0.0,
+      "z": 82078.53125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_11_sector001_macro": {
+      "x": -93626.28125,
+      "y": 0.0,
+      "z": -128397.3828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_11_sector001_macro": {
+      "x": 125499.328125,
+      "y": 0.0,
+      "z": -116864.453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_12_sector001_macro": {
+      "x": 132588.59375,
+      "y": 0.0,
+      "z": 36775.80078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_12_sector001_macro": {
+      "x": -10131.36328125,
+      "y": 0.0,
+      "z": -105944.15625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_12_sector001_macro": {
+      "x": -63095.56640625,
+      "y": 0.0,
+      "z": 94558.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_12_sector001_macro": {
+      "x": 35972.73828125,
+      "y": 0.0,
+      "z": 88150.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_12_sector001_macro": {
+      "x": 4962.2880859375,
+      "y": 0.0,
+      "z": -8094.6123046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_13_sector001_macro": {
+      "x": -37251.078125,
+      "y": 0.0,
+      "z": -57811.03125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_13_sector001_macro": {
+      "x": 68694.7109375,
+      "y": 0.0,
+      "z": -65740.9765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_13_sector001_macro": {
+      "x": 42731.453125,
+      "y": 0.0,
+      "z": 49505.98046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_14_sector001_macro": {
+      "x": 89982.4921875,
+      "y": 0.0,
+      "z": -100098.1640625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_14_sector001_macro": {
+      "x": -57062.328125,
+      "y": 0.0,
+      "z": 61362.80859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_14_sector001_macro": {
+      "x": 45571.9921875,
+      "y": 0.0,
+      "z": 108137.7109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_14_sector001_macro": {
+      "x": 50742.0078125,
+      "y": 0.0,
+      "z": 5897.970703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_15_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_15_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 39976.65625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_15_sector001_macro": {
+      "x": 163053.65625,
+      "y": 0.0,
+      "z": 39929.484375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_15_sector001_macro": {
+      "x": 65059.48046875,
+      "y": 0.0,
+      "z": 55851.9609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_15_sector001_macro": {
+      "x": -138440.46875,
+      "y": 0.0,
+      "z": 137906.15625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_15_sector001_macro": {
+      "x": 61235.6015625,
+      "y": 0.0,
+      "z": -144874.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_15_sector002shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_15_sector002shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 39939.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_15_sector002_macro": {
+      "x": -161156.25,
+      "y": 0.0,
+      "z": 45971.98046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_15_sector002_macro": {
+      "x": 131484.375,
+      "y": 0.0,
+      "z": -122697.0703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_15_sector002_macro": {
+      "x": -28531.25,
+      "y": 0.0,
+      "z": -112605.7578125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_16_sector001_macro": {
+      "x": -106474.953125,
+      "y": 0.0,
+      "z": 99691.0703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_16_sector001_macro": {
+      "x": 108556.609375,
+      "y": 0.0,
+      "z": 110512.875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_16_sector001_macro": {
+      "x": 119729.125,
+      "y": 0.0,
+      "z": -98881.828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_16_sector001_macro": {
+      "x": -120299.9140625,
+      "y": 0.0,
+      "z": -120866.46875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_17_sector001_macro": {
+      "x": -40169.75,
+      "y": 0.0,
+      "z": 122351.8046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_17_sector001_macro": {
+      "x": -110506.71875,
+      "y": 0.0,
+      "z": -6089.6225585938,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_17_sector001_macro": {
+      "x": 137201.75,
+      "y": 0.0,
+      "z": 133564.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_17_sector001_macro": {
+      "x": -414.0701293945,
+      "y": 0.0,
+      "z": -133511.671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_18_sector001_macro": {
+      "x": -106322.9375,
+      "y": 0.0,
+      "z": -93529.4140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_18_sector001_macro": {
+      "x": 130040.6171875,
+      "y": 0.0,
+      "z": 34803.94921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_18_sector001_macro": {
+      "x": 3129.2189941406,
+      "y": 0.0,
+      "z": 4814.7314453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_18_sector001_macro": {
+      "x": 122406.828125,
+      "y": 0.0,
+      "z": -62265.37890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_18_sector001_macro": {
+      "x": 2313.9113769531,
+      "y": 0.0,
+      "z": -135764.09375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_18_sector001_macro": {
+      "x": 116546.265625,
+      "y": 0.0,
+      "z": -137467.21875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_19_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -39934.34765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_19_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_19_sector001_macro": {
+      "x": -118718.8046875,
+      "y": 0.0,
+      "z": 124939.6640625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_19_sector001_macro": {
+      "x": 83107.421875,
+      "y": 0.0,
+      "z": 119173.203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_19_sector001_macro": {
+      "x": 155120.109375,
+      "y": 0.0,
+      "z": -46612.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_19_sector002shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_19_sector002shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 39768.40234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_19_sector002_macro": {
+      "x": -159187.5,
+      "y": 0.0,
+      "z": 41168.13671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_19_sector002_macro": {
+      "x": 50218.75,
+      "y": 0.0,
+      "z": 95554.0390625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_19_sector002_macro": {
+      "x": 123625.0,
+      "y": 0.0,
+      "z": -72589.0390625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_20_sector001_macro": {
+      "x": -117216.296875,
+      "y": 0.0,
+      "z": 45920.2265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_20_sector001_macro": {
+      "x": -114333.0703125,
+      "y": 0.0,
+      "z": -91033.28125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_20_sector001_macro": {
+      "x": 6762.6684570312,
+      "y": 0.0,
+      "z": 137462.828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_20_sector001_macro": {
+      "x": 96774.0234375,
+      "y": 0.0,
+      "z": -3815.5212402344,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_20_sector001_macro": {
+      "x": 3879.4365234375,
+      "y": 0.0,
+      "z": -155905.984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_21_sector001shcon5_gatezone_macro": {
+      "x": 146407.5625,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_21_sector001shcon9_gatezone_macro": {
+      "x": 156272.921875,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_21_sector001_macro": {
+      "x": -44749.19140625,
+      "y": 0.0,
+      "z": -151558.171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_21_sector001_macro": {
+      "x": -49429.51953125,
+      "y": 0.0,
+      "z": 34194.46484375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_21_sector001_macro": {
+      "x": 147351.046875,
+      "y": 0.0,
+      "z": 165381.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_21_sector002shcon6_gatezone_macro": {
+      "x": 40212.1875,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_21_sector002shcon10_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_21_sector002_macro": {
+      "x": 45833.76953125,
+      "y": 0.0,
+      "z": -162117.1875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_21_sector002_macro": {
+      "x": -125421.4765625,
+      "y": 0.0,
+      "z": 134515.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_21_sector002_macro": {
+      "x": 130442.015625,
+      "y": 0.0,
+      "z": 110054.6875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_22_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_22_sector001_macro": {
+      "x": -427.3376464844,
+      "y": 0.0,
+      "z": -75385.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_22_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_22_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_22_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_23_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_23_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_23_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_23_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_23_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_24_sector001_macro": {
+      "x": -21851.80859375,
+      "y": 0.0,
+      "z": 53705.55859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_24_sector001_macro": {
+      "x": -109790.375,
+      "y": 0.0,
+      "z": -145237.421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_24_sector001_macro": {
+      "x": 141050.78125,
+      "y": 0.0,
+      "z": -142354.203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_24_sector001_macro": {
+      "x": 125913.8203125,
+      "y": 0.0,
+      "z": 138760.890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_24_sector001_macro": {
+      "x": 38320.16015625,
+      "y": 0.0,
+      "z": -50058.015625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_25_sector001shcon6_gatezone_macro": {
+      "x": -55535.78125,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_25_sector001shcon10_gatezone_macro": {
+      "x": -45588.63671875,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_25_sector001_macro": {
+      "x": 116536.0390625,
+      "y": 0.0,
+      "z": -18900.376953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_25_sector001_macro": {
+      "x": -61577.765625,
+      "y": 0.0,
+      "z": 74915.296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_25_sector001_macro": {
+      "x": -49340.9375,
+      "y": 0.0,
+      "z": -160303.71875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_25_sector002shcon5_gatezone_macro": {
+      "x": 134166.84375,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_25_sector002shcon9_gatezone_macro": {
+      "x": 143991.96875,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_25_sector002_macro": {
+      "x": -102052.9296875,
+      "y": 0.0,
+      "z": -137445.3125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_25_sector002_macro": {
+      "x": -37726.08984375,
+      "y": 0.0,
+      "z": 57273.4375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_25_sector002_macro": {
+      "x": 128551.6796875,
+      "y": 0.0,
+      "z": 162945.3125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_25_sector002_macro": {
+      "x": 123855.2734375,
+      "y": 0.0,
+      "z": -132164.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_26_sector001shcon6_gatezone_macro": {
+      "x": 151323.765625,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_26_sector001shcon10_gatezone_macro": {
+      "x": 161340.546875,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_26_sector001_macro": {
+      "x": 87251.453125,
+      "y": 0.0,
+      "z": 84626.3046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_26_sector001_macro": {
+      "x": -75651.140625,
+      "y": 0.0,
+      "z": 47144.2890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_26_sector001_macro": {
+      "x": -48260.4375,
+      "y": 0.0,
+      "z": -111433.453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_26_sector001_macro": {
+      "x": 142032.859375,
+      "y": 0.0,
+      "z": -157565.171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_26_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_26_sector002shcon9_gatezone_macro": {
+      "x": -39984.375,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_26_sector002_macro": {
+      "x": -96515.625,
+      "y": 0.0,
+      "z": -104859.375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_26_sector002_macro": {
+      "x": -43128.90625,
+      "y": 0.0,
+      "z": 157906.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_26_sector002_macro": {
+      "x": 126734.375,
+      "y": 0.0,
+      "z": 62085.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_26_sector002_macro": {
+      "x": 103726.5625,
+      "y": 0.0,
+      "z": -117593.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_27_sector001_macro": {
+      "x": -111127.9609375,
+      "y": 0.0,
+      "z": -48957.515625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_27_sector001_macro": {
+      "x": -15.9301757812,
+      "y": 0.0,
+      "z": 118220.21875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_27_sector001_macro": {
+      "x": 105999.21875,
+      "y": 0.0,
+      "z": -70364.421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_28_sector001_macro": {
+      "x": 33633.58984375,
+      "y": 0.0,
+      "z": -112121.34375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_28_sector001_macro": {
+      "x": -101943.4765625,
+      "y": 0.0,
+      "z": -122315.109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_28_sector001_macro": {
+      "x": -74420.3125,
+      "y": 0.0,
+      "z": 39765.7421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_28_sector001_macro": {
+      "x": 102951.203125,
+      "y": 0.0,
+      "z": 18358.841796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_28_sector001_macro": {
+      "x": 104989.9296875,
+      "y": 0.0,
+      "z": 134567.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_29_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 168237.359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_29_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 158286.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_29_sector001_macro": {
+      "x": 2506.1494140625,
+      "y": 0.0,
+      "z": 25444.236328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_29_sector001_macro": {
+      "x": 174058.4375,
+      "y": 0.0,
+      "z": 160956.125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_29_sector001_macro": {
+      "x": -95523.7265625,
+      "y": 0.0,
+      "z": -115834.1171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_29_sector001_macro": {
+      "x": 120718.640625,
+      "y": 0.0,
+      "z": -134575.140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_29_sector001_macro": {
+      "x": 71458.6171875,
+      "y": 0.0,
+      "z": 122953.5546875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_29_sector001_macro": {
+      "x": -60428.28515625,
+      "y": 0.0,
+      "z": -42453.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_29_sector002shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -40050.78125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_29_sector002shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_29_sector002_macro": {
+      "x": -156171.875,
+      "y": 0.0,
+      "z": -47625.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_29_sector002_macro": {
+      "x": 95609.375,
+      "y": 0.0,
+      "z": -43546.875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_29_sector002_macro": {
+      "x": 119062.5,
+      "y": 0.0,
+      "z": 125664.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_30_sector001_macro": {
+      "x": 35850.09765625,
+      "y": 0.0,
+      "z": 110330.5078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_30_sector001_macro": {
+      "x": -108391.671875,
+      "y": 0.0,
+      "z": -10975.2919921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_30_sector001_macro": {
+      "x": 114342.0859375,
+      "y": 0.0,
+      "z": -101699.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_31_sector001_macro": {
+      "x": 3170.4387207031,
+      "y": 0.0,
+      "z": -3369.0224609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_31_sector001_macro": {
+      "x": -140270.34375,
+      "y": 0.0,
+      "z": -5531.4482421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_31_sector001_macro": {
+      "x": -89136.8515625,
+      "y": 0.0,
+      "z": 144269.984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_31_sector001_macro": {
+      "x": -115042.0625,
+      "y": 0.0,
+      "z": -148972.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_31_sector001_macro": {
+      "x": 144448.796875,
+      "y": 0.0,
+      "z": -6973.064453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_32_sector001shcon5_gatezone_macro": {
+      "x": -140511.421875,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_32_sector001shcon9_gatezone_macro": {
+      "x": -130500.8828125,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_32_sector001_macro": {
+      "x": -118797.7578125,
+      "y": 0.0,
+      "z": 157867.515625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_32_sector001_macro": {
+      "x": -81493.578125,
+      "y": 0.0,
+      "z": -93935.6484375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_32_sector001_macro": {
+      "x": 106359.5625,
+      "y": 0.0,
+      "z": 47287.2890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_32_sector001_macro": {
+      "x": 90705.4140625,
+      "y": 0.0,
+      "z": -97931.7890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_32_sector002shcon6_gatezone_macro": {
+      "x": 40115.28125,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_32_sector002shcon10_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_32_sector002_macro": {
+      "x": 57678.23828125,
+      "y": 0.0,
+      "z": -168226.5625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_32_sector002_macro": {
+      "x": 69668.671875,
+      "y": 0.0,
+      "z": 28960.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_32_sector002_macro": {
+      "x": -14265.640625,
+      "y": 0.0,
+      "z": 84906.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_32_sector002_macro": {
+      "x": -109520.6015625,
+      "y": 0.0,
+      "z": 121476.5625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_33_sector001_macro": {
+      "x": -110839.078125,
+      "y": 0.0,
+      "z": 125103.6953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_33_sector001_macro": {
+      "x": -91470.921875,
+      "y": 0.0,
+      "z": -13531.4921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_33_sector001_macro": {
+      "x": 56338.65234375,
+      "y": 0.0,
+      "z": 57824.859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_33_sector001_macro": {
+      "x": 111384.9765625,
+      "y": 0.0,
+      "z": -132798.53125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_34_sector001_macro": {
+      "x": -51480.67578125,
+      "y": 0.0,
+      "z": -9413.3203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_34_sector001_macro": {
+      "x": 51396.7265625,
+      "y": 0.0,
+      "z": -48322.984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_34_sector001_macro": {
+      "x": 152552.3125,
+      "y": 0.0,
+      "z": -91995.1875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_34_sector001_macro": {
+      "x": 51542.984375,
+      "y": 0.0,
+      "z": 53540.9609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_34_sector001_macro": {
+      "x": -149183.125,
+      "y": 0.0,
+      "z": -4328.8134765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_35_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_35_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_35_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 52087.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_35_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_35_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_36_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_36_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_36_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_36_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_36_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_37_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_37_sector001_macro": {
+      "x": -427.3376464844,
+      "y": 0.0,
+      "z": -75385.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_37_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_37_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_37_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_38_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_38_sector001_macro": {
+      "x": 84893.9296875,
+      "y": 0.0,
+      "z": -111858.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_38_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_38_sector001_macro": {
+      "x": -97508.7421875,
+      "y": 0.0,
+      "z": -71169.2109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_38_sector001_macro": {
+      "x": -71468.3984375,
+      "y": 0.0,
+      "z": 53358.09375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_39_sector001_macro": {
+      "x": 106787.1953125,
+      "y": 0.0,
+      "z": 86813.5234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_39_sector001_macro": {
+      "x": 86380.078125,
+      "y": 0.0,
+      "z": -106069.9140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_39_sector001_macro": {
+      "x": -66377.890625,
+      "y": 0.0,
+      "z": 115442.5234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_39_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_39_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_40_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_40_sector001_macro": {
+      "x": 96228.7890625,
+      "y": 0.0,
+      "z": -128845.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_40_sector001_macro": {
+      "x": 96741.390625,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_40_sector001_macro": {
+      "x": -97990.734375,
+      "y": 0.0,
+      "z": -74974.2109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_40_sector001_macro": {
+      "x": -121550.1171875,
+      "y": 0.0,
+      "z": 114678.0078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_41_sector001_macro": {
+      "x": 113558.1875,
+      "y": 0.0,
+      "z": 102817.671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_41_sector001_macro": {
+      "x": 112827.6015625,
+      "y": 0.0,
+      "z": -48706.0078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_41_sector001_macro": {
+      "x": -111312.640625,
+      "y": 0.0,
+      "z": 119135.7890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_41_sector001_macro": {
+      "x": -68982.078125,
+      "y": 0.0,
+      "z": -112405.6953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_41_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_42_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -39934.34765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_42_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_42_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_42_sector001_macro": {
+      "x": -427.3376464844,
+      "y": 0.0,
+      "z": -75385.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_42_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_42_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_42_sector002shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_42_sector002shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 39768.40234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_42_sector002_macro": {
+      "x": 140375.0,
+      "y": 0.0,
+      "z": 134150.09375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_42_sector002_macro": {
+      "x": 18804.6875,
+      "y": 0.0,
+      "z": -122626.5859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_42_sector002_macro": {
+      "x": 30109.375,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_42_sector002_macro": {
+      "x": -97593.75,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_42_sector002_macro": {
+      "x": -113179.6875,
+      "y": 0.0,
+      "z": 112771.0078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_43_sector001_macro": {
+      "x": 126773.46875,
+      "y": 0.0,
+      "z": 84312.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_43_sector001_macro": {
+      "x": 33098.4765625,
+      "y": 0.0,
+      "z": -121434.3046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_43_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_43_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_44_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_44_sector001_macro": {
+      "x": -427.3376464844,
+      "y": 0.0,
+      "z": -75385.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_44_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_44_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_44_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_45_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_45_sector001_macro": {
+      "x": 105806.0390625,
+      "y": 0.0,
+      "z": -121910.9296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_45_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_45_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_45_sector001_macro": {
+      "x": -121067.625,
+      "y": 0.0,
+      "z": 102065.3515625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_46_sector001_macro": {
+      "x": 134486.6875,
+      "y": 0.0,
+      "z": -81845.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_46_sector001_macro": {
+      "x": -427.3376464844,
+      "y": 0.0,
+      "z": -143002.578125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_46_sector001_macro": {
+      "x": -123007.9765625,
+      "y": 0.0,
+      "z": 124675.6875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_46_sector001_macro": {
+      "x": -127621.703125,
+      "y": 0.0,
+      "z": -33782.69921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_46_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_47_sector001_macro": {
+      "x": 131873.140625,
+      "y": 0.0,
+      "z": -42315.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_47_sector001_macro": {
+      "x": -427.3376464844,
+      "y": 0.0,
+      "z": -141828.21875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_47_sector001_macro": {
+      "x": 85.5541229248,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_47_sector001_macro": {
+      "x": -136281.578125,
+      "y": 0.0,
+      "z": 75532.390625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_47_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_default_shipyard_cluster_001_sector_001_zone_001_macro": {
+      "x": 76000.0,
+      "y": 0.0,
+      "z": 62000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_default_station_cluster_001_sector_001_zone_001_macro": {
+      "x": 76000.0,
+      "y": 0.0,
+      "z": 62000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_default_two_clusters_cluster_002_sector_001_zone_001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 100000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_default_wharf_cluster_001_sector_001_zone_001_macro": {
+      "x": 76000.0,
+      "y": 0.0,
+      "z": 62000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_001_zone_001_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_001_zone_002_macro": {
+      "x": -100000.0,
+      "y": 0.0,
+      "z": -15000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_001_zone_003_macro": {
+      "x": -20000.0,
+      "y": 0.0,
+      "z": 40000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_001_zone_004_macro": {
+      "x": 20000.0,
+      "y": 0.0,
+      "z": -120000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_001_zone_005_macro": {
+      "x": -160000.0,
+      "y": 0.0,
+      "z": 40000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_001_zone_006_macro": {
+      "x": 20000.0,
+      "y": 0.0,
+      "z": 120000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_002_zone_001_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -40000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_002_sector_002_zone_002_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_004_sector_001_zone_001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 100000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_gates_highways_cluster_004_sector_001_zone_002_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -1000000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_scanning_cluster_001_sector_001_zone_001_macro": {
+      "x": 114342.086,
+      "y": 0.0,
+      "z": 51699.797,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_station_building_cluster_001_sector_001_zone_001_macro": {
+      "x": 96774.023,
+      "y": 0.0,
+      "z": -3815.521,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_station_building_cluster_001_sector_001_zone_002_macro": {
+      "x": 6762.668,
+      "y": 0.0,
+      "z": 137462.828,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_station_building_cluster_001_sector_001_zone_003_macro": {
+      "x": 3879.437,
+      "y": 0.0,
+      "z": -155905.984,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_station_building_cluster_001_sector_001_zone_004_macro": {
+      "x": -114333.07,
+      "y": 0.0,
+      "z": -91033.281,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_station_building_cluster_001_sector_001_zone_006_macro": {
+      "x": 65000.0,
+      "y": 0.0,
+      "z": 60000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_superhighway_cluster_001_sector_001_zone_001_macro": {
+      "x": 165479.406,
+      "y": 0.0,
+      "z": -6450.661,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_superhighway_cluster_001_sector_002_zone_001_macro": {
+      "x": -155000.0,
+      "y": 0.0,
+      "z": 106263.672,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_trading_advanced_cluster_001_sector_001_zone_001_macro": {
+      "x": -69128.172,
+      "y": 0.0,
+      "z": 1560.116,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_trading_advanced_cluster_001_sector_001_zone_002_macro": {
+      "x": -25962.662,
+      "y": 0.0,
+      "z": -66994.453,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_trading_advanced_cluster_001_sector_001_zone_003_macro": {
+      "x": 37095.723,
+      "y": 0.0,
+      "z": -57945.59,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_trading_advanced_cluster_001_sector_001_zone_004_macro": {
+      "x": 53711.398,
+      "y": 0.0,
+      "z": 72959.555,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_trading_advanced_cluster_001_sector_001_zone_006_macro": {
+      "x": 68384.258,
+      "y": 0.0,
+      "z": 10224.802,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "basegame_map_tutorial_trading_cluster_001_sector_001_zone_001_macro": {
+      "x": -69128.172,
+      "y": 0.0,
+      "z": 1560.116,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone002_cluster_13_sector001_macro": {
+      "x": -37251.078125,
+      "y": 0.0,
+      "z": -57811.03125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone001_cluster_13_sector001_macro": {
+      "x": 68694.7109375,
+      "y": 0.0,
+      "z": -65740.9765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone003_cluster_13_sector001_macro": {
+      "x": 42731.453125,
+      "y": 0.0,
+      "z": 49505.98046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone002_cluster_40_sector001_macro": {
+      "x": 103750.5,
+      "y": 0.0,
+      "z": 20340.15234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone003_cluster_40_sector001_macro": {
+      "x": 96228.7890625,
+      "y": 0.0,
+      "z": -128845.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone001_cluster_40_sector001_macro": {
+      "x": 96741.390625,
+      "y": 0.0,
+      "z": 115545.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone004_cluster_40_sector001_macro": {
+      "x": -97990.734375,
+      "y": 0.0,
+      "z": -74974.2109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone005_cluster_40_sector001_macro": {
+      "x": -121550.1171875,
+      "y": 0.0,
+      "z": 114678.0078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone002_cluster_41_sector001_macro": {
+      "x": 113558.1875,
+      "y": 0.0,
+      "z": 102817.671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone003_cluster_41_sector001_macro": {
+      "x": 112827.6015625,
+      "y": 0.0,
+      "z": -48706.0078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone001_cluster_41_sector001_macro": {
+      "x": -111312.640625,
+      "y": 0.0,
+      "z": 119135.7890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone004_cluster_41_sector001_macro": {
+      "x": -68982.078125,
+      "y": 0.0,
+      "z": -112405.6953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "demo_zone005_cluster_41_sector001_macro": {
+      "x": -14468.673828125,
+      "y": 0.0,
+      "z": -1060.8215332031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "editor_zone_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_02_sector001_macro": {
+      "x": -114310.4140625,
+      "y": 0.0,
+      "z": -8096.015625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_06_sector001_macro": {
+      "x": 19492.6484375,
+      "y": 0.0,
+      "z": 164808.3671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_08_sector001_macro": {
+      "x": -73511.1796875,
+      "y": 0.0,
+      "z": -164942.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_27_sector001_macro": {
+      "x": 7336.2504882812,
+      "y": 0.0,
+      "z": -180866.078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_27_sector001_macro": {
+      "x": -22186.294921875,
+      "y": 0.0,
+      "z": 284127.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_49_sector001_macro": {
+      "x": 89982.4921875,
+      "y": 0.0,
+      "z": -100098.1640625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_49_sector001_macro": {
+      "x": -57062.328125,
+      "y": 0.0,
+      "z": 61362.80859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_49_sector001_macro": {
+      "x": 45571.9921875,
+      "y": 0.0,
+      "z": 108137.7109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_49_sector001_macro": {
+      "x": 50742.0078125,
+      "y": 0.0,
+      "z": 5897.970703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_48_sector001_macro": {
+      "x": -49561.94140625,
+      "y": 0.0,
+      "z": -104808.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_48_sector001_macro": {
+      "x": 34082.6796875,
+      "y": 0.0,
+      "z": 285527.03125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_48_sector001_macro": {
+      "x": -106998.9140625,
+      "y": 0.0,
+      "z": 77455.4296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_48_sector001_macro": {
+      "x": -106998.9140625,
+      "y": 0.0,
+      "z": 186408.4296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_48_sector001_macro": {
+      "x": 232354.296875,
+      "y": 0.0,
+      "z": 104691.8203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_48_sector01_macro": {
+      "x": 305554.1875,
+      "y": -65343.75,
+      "z": -201126.65625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_50_sector001shcon6_gatezone_macro": {
+      "x": 151323.765625,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_50_sector001shcon10_gatezone_macro": {
+      "x": 161340.546875,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_50_sector001_macro": {
+      "x": 87251.453125,
+      "y": 0.0,
+      "z": 84626.3046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_50_sector001_macro": {
+      "x": -75651.140625,
+      "y": 0.0,
+      "z": 47144.2890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_50_sector001_macro": {
+      "x": -48260.4375,
+      "y": 0.0,
+      "z": -111433.453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_50_sector001_macro": {
+      "x": 142032.859375,
+      "y": 0.0,
+      "z": -157565.171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_50_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_50_sector002shcon9_gatezone_macro": {
+      "x": -39984.375,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_50_sector002_macro": {
+      "x": -96515.625,
+      "y": 0.0,
+      "z": -104859.375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_50_sector002_macro": {
+      "x": -43128.90625,
+      "y": 0.0,
+      "z": 157906.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_50_sector002_macro": {
+      "x": 126734.375,
+      "y": 0.0,
+      "z": 62085.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_50_sector002_macro": {
+      "x": 103726.5625,
+      "y": 0.0,
+      "z": -117593.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_709_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_709_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_709_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_709_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_709_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_710_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_710_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_710_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_710_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_710_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_711_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_711_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_711_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_711_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_711_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_712_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_712_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_712_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_712_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_712_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_713_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_713_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_713_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_713_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_713_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_714_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_714_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_714_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_714_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_714_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_715_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_715_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_715_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_715_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_715_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_720_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": -26261.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_720_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_720_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_720_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_720_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_721_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_721_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 200000.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_721_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_721_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_721_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_722_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_722_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_722_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_722_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_722_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_723_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_723_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_723_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_723_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_723_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_724_sector001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_724_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_724_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_724_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_724_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon6_gatezone_macro": {
+      "x": -55785.2,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon10_gatezone_macro": {
+      "x": -45738.28,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon4_gatezone_macro": {
+      "x": 76886.7,
+      "y": 0.0,
+      "z": -207957.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon2_gatezone_macro": {
+      "x": 66960.9,
+      "y": 0.0,
+      "z": -207957.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_500_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_500_sector001_macro": {
+      "x": -10960.94,
+      "y": 0.0,
+      "z": 112070.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_500_sector001_macro": {
+      "x": -97898.44,
+      "y": 0.0,
+      "z": -23632.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_500_sector001_macro": {
+      "x": 103164.1,
+      "y": 0.0,
+      "z": -32492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_500_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector002shcon9_gatezone_macro": {
+      "x": -39827.2,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_500_sector002_macro": {
+      "x": -118489.4,
+      "y": 0.0,
+      "z": -131687.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_500_sector002_macro": {
+      "x": -7132.69,
+      "y": 0.0,
+      "z": 531.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_500_sector002_macro": {
+      "x": -78593.63,
+      "y": 0.0,
+      "z": 157937.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_500_sector002_macro": {
+      "x": 101721.7,
+      "y": 0.0,
+      "z": 100656.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_500_sector002_macro": {
+      "x": 98694.83,
+      "y": 0.0,
+      "z": -126406.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_500_sector002_macro": {
+      "x": -184409.83,
+      "y": 0.0,
+      "z": -3343.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector003shcon5_gatezone_macro": {
+      "x": 40054.7,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector003shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_500_sector003_macro": {
+      "x": 44015.63,
+      "y": 0.0,
+      "z": 158125.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_500_sector003_macro": {
+      "x": -117046.9,
+      "y": 0.0,
+      "z": 82593.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_500_sector003_macro": {
+      "x": -115796.9,
+      "y": 0.0,
+      "z": -96109.38,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_500_sector003_macro": {
+      "x": 34671.88,
+      "y": 0.0,
+      "z": -152515.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_500_sector003_macro": {
+      "x": 110359.4,
+      "y": 0.0,
+      "z": 7250.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_501_sector001_macro": {
+      "x": -10960.94,
+      "y": 0.0,
+      "z": 112070.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_501_sector001_macro": {
+      "x": -97898.44,
+      "y": 0.0,
+      "z": -23632.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_501_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_501_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_501_sector001_macro": {
+      "x": 103164.1,
+      "y": 0.0,
+      "z": -32492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_502_sector001_macro": {
+      "x": 103164.1,
+      "y": 0.0,
+      "z": -32492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_502_sector001_macro": {
+      "x": 108009.3,
+      "y": 0.0,
+      "z": 115933.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_502_sector001_macro": {
+      "x": -97898.44,
+      "y": 0.0,
+      "z": -23632.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_502_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_502_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_502_sector001_macro": {
+      "x": 47000.0,
+      "y": 0.0,
+      "z": 172000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_503_sector001_macro": {
+      "x": -2269.199,
+      "y": 0.0,
+      "z": 165758.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_503_sector001_macro": {
+      "x": -199365.3,
+      "y": 0.0,
+      "z": -55454.45,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_503_sector001_macro": {
+      "x": -190039.3,
+      "y": 0.0,
+      "z": 180073.9,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_503_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_503_sector001_macro": {
+      "x": 139680.0,
+      "y": 0.0,
+      "z": -3215.59,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_504_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_504_sector001_macro": {
+      "x": -226443.3,
+      "y": 0.0,
+      "z": -97194.67,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_504_sector001_macro": {
+      "x": 137904.1,
+      "y": 0.0,
+      "z": 135199.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_504_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_504_sector001_macro": {
+      "x": 157616.8,
+      "y": 0.0,
+      "z": -84263.63,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "scenario_conceal_and_delay_zone001_cluster_01_sector001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone101_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 64400.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone102_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": -30000.0,
+      "y": 2000.0,
+      "z": 44400.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone103_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 30000.0,
+      "y": -3000.0,
+      "z": 40000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 113126.984375,
+      "y": 0.0,
+      "z": 136241.921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone017_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 325770.0,
+      "y": 0.0,
+      "z": 156231.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone014_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 613748.0,
+      "y": 0.0,
+      "z": 409677.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone012_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 297325.75,
+      "y": 0.0,
+      "z": 533514.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone011_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 863285.0,
+      "y": 0.0,
+      "z": 555921.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone010_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 743979.5,
+      "y": 0.0,
+      "z": 726908.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone009_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 636742.25,
+      "y": 0.0,
+      "z": 814874.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone007_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 661036.125,
+      "y": 0.0,
+      "z": 633698.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone008_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 446002.0,
+      "y": 0.0,
+      "z": 506310.125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 404746.125,
+      "y": 0.0,
+      "z": 277341.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 790515.3125,
+      "y": 0.0,
+      "z": 956214.1875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 457655.34375,
+      "y": 0.0,
+      "z": 381549.59375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone015_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 569047.5,
+      "y": 0.0,
+      "z": 540347.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone016_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 413067.0,
+      "y": 0.0,
+      "z": 667920.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone013_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": -23423.0,
+      "y": 0.0,
+      "z": 111898.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone019_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 202528.0,
+      "y": 0.0,
+      "z": 285878.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone018_scenario_escort_1_cluster_04_sector001_macro": {
+      "x": 89093.0,
+      "y": 0.0,
+      "z": 607.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "test_scenario_mining_zone001_cluster_01_sector001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "test_scenario_trading_zone001_cluster_01_sector001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_001_macro": {
+      "x": 221198.422,
+      "y": 0.0,
+      "z": -80788.305,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_002_macro": {
+      "x": -98240.688,
+      "y": 0.0,
+      "z": 51134.035,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_003_macro": {
+      "x": -164601.109,
+      "y": 0.0,
+      "z": -43978.664,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_004_macro": {
+      "x": -112402.781,
+      "y": 0.0,
+      "z": -119225.82,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_005_macro": {
+      "x": 130040.617,
+      "y": 0.0,
+      "z": 34803.949,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_006_macro": {
+      "x": 2313.911,
+      "y": 0.0,
+      "z": -135764.094,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_assassinate_cluster_001_sector_001_zone_007_macro": {
+      "x": 3129.219,
+      "y": 0.0,
+      "z": 4814.731,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_disable_capship_cluster_001_sector_001_zone_002_macro": {
+      "x": 87251.453,
+      "y": 0.0,
+      "z": 84626.305,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_disable_capship_cluster_001_sector_001_zone_003_macro": {
+      "x": -83156.898,
+      "y": 0.0,
+      "z": -219096.359,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_dragonfyre_cluster_001_sector_001_zone_002_macro": {
+      "x": -120000.0,
+      "y": 0.0,
+      "z": 30000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_escort_cluster_001_sector_001_zone_001_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 128000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_escort_cluster_001_sector_001_zone_002_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 256000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_escort_cluster_001_sector_001_zone_003_macro": {
+      "x": 43763.254,
+      "y": 0.0,
+      "z": -153542.641,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_escort_cluster_001_sector_001_zone_005_macro": {
+      "x": 795808.0,
+      "y": 0.0,
+      "z": 889770.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_escort_cluster_001_sector_002_zone_001_macro": {
+      "x": -41734.312,
+      "y": 0.0,
+      "z": 166070.312,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_1_cluster_001_sector_001_zone_001_macro": {
+      "x": -10131.363,
+      "y": 0.0,
+      "z": -105944.156,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_1_cluster_001_sector_001_zone_003_macro": {
+      "x": 35972.738,
+      "y": 0.0,
+      "z": 88150.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_1_cluster_002_sector_001_zone_001_macro": {
+      "x": 68694.711,
+      "y": 0.0,
+      "z": -65740.977,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_1_cluster_002_sector_001_zone_002_macro": {
+      "x": 42731.453,
+      "y": 0.0,
+      "z": 49505.98,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_1_cluster_002_sector_001_zone_003_macro": {
+      "x": -37251.078,
+      "y": 0.0,
+      "z": -57811.031,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_2_cluster_001_sector_001_zone_001_macro": {
+      "x": 85.554,
+      "y": 0.0,
+      "z": 115545.398,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_2_cluster_001_sector_001_zone_002_macro": {
+      "x": 70000.0,
+      "y": 0.0,
+      "z": -280000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_2_cluster_001_sector_001_zone_003_macro": {
+      "x": -129500.203,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_2_cluster_002_sector_001_zone_001_macro": {
+      "x": 85.554,
+      "y": 0.0,
+      "z": 115545.398,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_2_cluster_002_sector_001_zone_002_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_3_cluster_001_sector_001_zone_001_macro": {
+      "x": 85.554,
+      "y": 0.0,
+      "z": 115545.398,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_3_cluster_001_sector_001_zone_002_macro": {
+      "x": 380000.0,
+      "y": 0.0,
+      "z": -22000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_fleet_battle_3_cluster_001_sector_001_zone_003_macro": {
+      "x": -129500.203,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_heist_cluster_001_sector_001_zone_002_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -70000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_khaak_boss_battle_cluster_001_sector_001_zone_002_macro": {
+      "x": -141100.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_khaak_boss_battle_cluster_001_sector_001_zone_003_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 141100.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_khaak_boss_battle_cluster_001_sector_001_zone_004_macro": {
+      "x": 104350.0,
+      "y": 0.0,
+      "z": -17500.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_m0_bossbattle_cluster_001_sector_001_zone_001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": -16349.69,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_m0_bossbattle_cluster_001_sector_001_zone_002_macro": {
+      "x": -127517.797,
+      "y": 0.0,
+      "z": 34255.371,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_m0_bossbattle_cluster_001_sector_001_zone_003_macro": {
+      "x": 105554.398,
+      "y": 0.0,
+      "z": -127903.797,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_m0_bossbattle_cluster_002_sector_001_zone_001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.102,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_m0_bossbattle_cluster_002_sector_001_zone_002_macro": {
+      "x": -127517.797,
+      "y": 0.0,
+      "z": 34255.371,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_m0_bossbattle_cluster_002_sector_001_zone_003_macro": {
+      "x": 85.554,
+      "y": 0.0,
+      "z": 115545.398,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_1_cluster_001_sector_001_zone_001_macro": {
+      "x": 232354.297,
+      "y": 0.0,
+      "z": 104691.82,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_1_cluster_001_sector_001_zone_002_macro": {
+      "x": -106998.914,
+      "y": 0.0,
+      "z": 77455.43,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_1_cluster_001_sector_001_zone_003_macro": {
+      "x": -49561.941,
+      "y": 0.0,
+      "z": -104808.938,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_5_cluster_001_sector_001_zone_001_macro": {
+      "x": 232354.297,
+      "y": 0.0,
+      "z": 104691.82,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_5_cluster_001_sector_001_zone_002_macro": {
+      "x": -106998.914,
+      "y": 0.0,
+      "z": 77455.43,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_5_cluster_001_sector_001_zone_003_macro": {
+      "x": -49561.941,
+      "y": 0.0,
+      "z": -104808.938,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_5_cluster_001_sector_001_zone_004_macro": {
+      "x": 133820.266,
+      "y": 0.0,
+      "z": 46256.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_7_cluster_001_sector_001_zone_001_macro": {
+      "x": 232354.297,
+      "y": 0.0,
+      "z": 104691.82,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_7_cluster_001_sector_001_zone_002_macro": {
+      "x": -106998.914,
+      "y": 0.0,
+      "z": 77455.43,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_7_cluster_001_sector_001_zone_003_macro": {
+      "x": -49561.941,
+      "y": 0.0,
+      "z": -104808.938,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_mining_7_cluster_001_sector_001_zone_004_macro": {
+      "x": -107650.75,
+      "y": 0.0,
+      "z": -71235.508,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_001_sector_001_zone_001_macro": {
+      "x": 29.692,
+      "y": 0.0,
+      "z": 99427.398,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_001_sector_001_zone_002_macro": {
+      "x": 60859.066,
+      "y": 0.0,
+      "z": 28958.486,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_001_sector_001_zone_003_macro": {
+      "x": -21471.467,
+      "y": 0.0,
+      "z": -51448.758,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_001_sector_001_zone_004_macro": {
+      "x": -86872.766,
+      "y": 0.0,
+      "z": 2913.046,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_002_sector_001_zone_001_macro": {
+      "x": -95664.727,
+      "y": 0.0,
+      "z": 5762.573,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_003_sector_001_zone_001_macro": {
+      "x": 100598.68,
+      "y": 0.0,
+      "z": 6410.569,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_003_sector_001_zone_002_macro": {
+      "x": 4745.255,
+      "y": 0.0,
+      "z": 115045.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_003_sector_001_zone_003_macro": {
+      "x": -13673.746,
+      "y": 0.0,
+      "z": -53496.789,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_004_sector_001_zone_001_macro": {
+      "x": 3745.531,
+      "y": 0.0,
+      "z": -120565.461,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_004_sector_001_zone_002_macro": {
+      "x": -122649.531,
+      "y": 0.0,
+      "z": 3403.491,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_004_sector_001_zone_003_macro": {
+      "x": -19405.637,
+      "y": 0.0,
+      "z": 61617.438,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_005_sector_001_zone_001_macro": {
+      "x": 119895.125,
+      "y": 0.0,
+      "z": -2589.287,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_005_sector_001_zone_002_macro": {
+      "x": 6193.206,
+      "y": 0.0,
+      "z": -113447.078,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_005_sector_001_zone_003_macro": {
+      "x": -45138.934,
+      "y": 0.0,
+      "z": 27192.781,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_002_macro": {
+      "x": -100158.281,
+      "y": 0.0,
+      "z": -119429.398,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_003_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 128000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_004_macro": {
+      "x": -128000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_005_macro": {
+      "x": 64000.0,
+      "y": 0.0,
+      "z": -64000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_006_macro": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": -64000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_007_macro": {
+      "x": -73138.062,
+      "y": 0.0,
+      "z": -53349.887,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_008_macro": {
+      "x": 117041.289,
+      "y": 0.0,
+      "z": -8420.842,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_presidents_end_cluster_006_sector_001_zone_009_macro": {
+      "x": -64000.0,
+      "y": 0.0,
+      "z": 64000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_recruitment_cluster_001_sector_001_zone_001_macro": {
+      "x": -101943.477,
+      "y": 0.0,
+      "z": -122315.109,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_recruitment_cluster_001_sector_001_zone_002_macro": {
+      "x": 104989.93,
+      "y": 0.0,
+      "z": 134567.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_recruitment_cluster_001_sector_001_zone_003_macro": {
+      "x": 102951.203,
+      "y": 0.0,
+      "z": 18358.842,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_recruitment_cluster_001_sector_001_zone_004_macro": {
+      "x": 33633.59,
+      "y": 0.0,
+      "z": -112121.344,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_recruitment_cluster_001_sector_001_zone_005_macro": {
+      "x": -52000.0,
+      "y": 0.0,
+      "z": -12000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_tharkas_cascade_cluster_001_sector_001_zone_001_macro": {
+      "x": 57678.238,
+      "y": 0.0,
+      "z": -168226.562,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_tharkas_cascade_cluster_001_sector_001_zone_002_macro": {
+      "x": -109520.602,
+      "y": 0.0,
+      "z": 121476.562,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_tharkas_cascade_cluster_001_sector_002_zone_001_macro": {
+      "x": 106359.562,
+      "y": 0.0,
+      "z": 47287.289,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_tharkas_cascade_cluster_001_sector_002_zone_002_macro": {
+      "x": -118797.758,
+      "y": 0.0,
+      "z": 157867.516,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_tharkas_cascade_cluster_001_sector_002_zone_003_macro": {
+      "x": -81493.578,
+      "y": 0.0,
+      "z": -93935.648,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_tharkas_cascade_cluster_001_sector_002_zone_004_macro": {
+      "x": 90705.414,
+      "y": 0.0,
+      "z": -97931.789,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_trading_3_cluster_001_sector_001_zone_001_macro": {
+      "x": -21851.809,
+      "y": 0.0,
+      "z": 53705.559,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_trading_3_cluster_001_sector_001_zone_002_macro": {
+      "x": -109790.375,
+      "y": 0.0,
+      "z": -145237.422,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_trading_3_cluster_001_sector_001_zone_003_macro": {
+      "x": 141050.781,
+      "y": 0.0,
+      "z": -142354.203,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_transport_refugees_engineer_cluster_001_sector_001_zone_001_macro": {
+      "x": -64000.0,
+      "y": 0.0,
+      "z": -128000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_transport_refugees_engineer_cluster_001_sector_001_zone_003_macro": {
+      "x": 64000.0,
+      "y": 0.0,
+      "z": -64000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_transport_refugees_engineer_cluster_001_sector_001_zone_004_macro": {
+      "x": 64000.0,
+      "y": 0.0,
+      "z": -128000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_transport_refugees_cluster_001_sector_001_zone_001_macro": {
+      "x": -64000.0,
+      "y": 0.0,
+      "z": -128000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_transport_refugees_cluster_001_sector_001_zone_002_macro": {
+      "x": 128000.0,
+      "y": 0.0,
+      "z": -128000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_transport_refugees_cluster_001_sector_001_zone_003_macro": {
+      "x": 128000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_waveattack_cluster_001_sector_001_zone_001_macro": {
+      "x": 14795.4,
+      "y": 0.0,
+      "z": -205518.281,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_weaken_fleet_cluster_001_sector_001_zone_001_macro": {
+      "x": 1520.386,
+      "y": 0.0,
+      "z": 82078.531,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_weaken_fleet_cluster_001_sector_001_zone_002_macro": {
+      "x": -52851.223,
+      "y": 0.0,
+      "z": -75054.516,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_weaken_station_cluster_001_sector_001_zone_001_macro": {
+      "x": 174058.438,
+      "y": 0.0,
+      "z": 160956.125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_weaken_station_cluster_001_sector_001_zone_002_macro": {
+      "x": 2506.149,
+      "y": 0.0,
+      "z": 25444.236,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_weaken_station_cluster_001_sector_001_zone_003_macro": {
+      "x": -95523.727,
+      "y": 0.0,
+      "z": -115834.117,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_map_weaken_station_cluster_001_sector_001_zone_004_macro": {
+      "x": 128143.203,
+      "y": 0.0,
+      "z": -235317.281,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_scenario_rescueoperation_c701_s01_zone_01_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "timelines_scenario_rescueoperation_c701_s01_zone_02_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 0.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_702_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_702_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_702_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_702_sector001_macro": {
+      "x": 17314.51,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_702_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_703_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_703_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_703_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_703_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_703_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_705_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_705_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_705_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": -16349.69,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_705_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_705_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_706_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_706_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_706_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_706_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_706_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_704_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_704_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_704_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_704_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_704_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_701_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_701_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_701_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_701_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_701_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_708_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_708_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_708_sector001_macro": {
+      "x": 130142.0,
+      "y": 0.0,
+      "z": 48135.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_708_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_708_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_730_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_730_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_730_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_730_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_730_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_602_sector001_macro": {
+      "x": -4656.418,
+      "y": 0.0,
+      "z": -121536.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_602_sector001_macro": {
+      "x": -133889.7,
+      "y": 0.0,
+      "z": -88467.94,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_602_sector001_macro": {
+      "x": -113247.6,
+      "y": 0.0,
+      "z": 72268.07,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_602_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_602_sector001_macro": {
+      "x": 121474.9,
+      "y": 0.0,
+      "z": -4501.229,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_603_sector001_macro": {
+      "x": 123600.2,
+      "y": 0.0,
+      "z": -99607.15,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_603_sector001_macro": {
+      "x": 22972.12,
+      "y": 0.0,
+      "z": 119150.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_603_sector001_macro": {
+      "x": -98169.94,
+      "y": 0.0,
+      "z": 101618.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_603_sector001_macro": {
+      "x": 142074.0,
+      "y": 0.0,
+      "z": 71801.65,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_603_sector001_macro": {
+      "x": -57990.49,
+      "y": 0.0,
+      "z": -130164.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_605_sector001_macro": {
+      "x": -84684.0,
+      "y": 0.0,
+      "z": 55644.57,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_605_sector001_macro": {
+      "x": -15863.0,
+      "y": 0.0,
+      "z": 31730.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_605_sector001_macro": {
+      "x": 90789.0,
+      "y": 0.0,
+      "z": 39800.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_605_sector001_macro": {
+      "x": 55319.0,
+      "y": 0.0,
+      "z": -98948.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_605_sector001_macro": {
+      "x": -87130.6,
+      "y": 0.0,
+      "z": -70078.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector001shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector001shcon10_gatezone_macro": {
+      "x": -43159.09,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_606_sector001_macro": {
+      "x": 51992.35,
+      "y": 0.0,
+      "z": -1060.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_606_sector001_macro": {
+      "x": -127513.9,
+      "y": 0.0,
+      "z": 82085.13,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_606_sector001_macro": {
+      "x": 133484.8,
+      "y": 0.0,
+      "z": 131372.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_606_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_606_sector001_macro": {
+      "x": -22721.23,
+      "y": 0.0,
+      "z": -122067.9,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon5_gatezone_macro": {
+      "x": 40468.75,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -40046.88,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -25000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_606_sector002_macro": {
+      "x": -119849.7,
+      "y": 0.0,
+      "z": -93007.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_606_sector002_macro": {
+      "x": -107447.6,
+      "y": 0.0,
+      "z": 124554.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_606_sector002_macro": {
+      "x": -6696.777,
+      "y": 0.0,
+      "z": -60289.06,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_606_sector002_macro": {
+      "x": 50325.93,
+      "y": 0.0,
+      "z": 153750.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_606_sector002_macro": {
+      "x": 156852.0,
+      "y": 0.0,
+      "z": -61492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector003shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -44060.06,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector003shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -25000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_606_sector003_macro": {
+      "x": 115195.3,
+      "y": 0.0,
+      "z": 14787.11,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_606_sector003_macro": {
+      "x": -3023.438,
+      "y": 0.0,
+      "z": -6614.258,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_606_sector003_macro": {
+      "x": -144757.8,
+      "y": 0.0,
+      "z": -39335.94,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_606_sector003_macro": {
+      "x": 117000.0,
+      "y": 0.0,
+      "z": -133457.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_606_sector003_macro": {
+      "x": -46281.25,
+      "y": 0.0,
+      "z": 138438.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_604_sector001_macro": {
+      "x": -22312.77,
+      "y": 0.0,
+      "z": 118045.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_604_sector001_macro": {
+      "x": 121771.5,
+      "y": 0.0,
+      "z": 106741.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_604_sector001_macro": {
+      "x": -73025.88,
+      "y": 0.0,
+      "z": -1060.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_604_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_604_sector001_macro": {
+      "x": -30677.88,
+      "y": 0.0,
+      "z": -122754.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_607_sector001_macro": {
+      "x": -96044.66,
+      "y": 0.0,
+      "z": 106400.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_607_sector001_macro": {
+      "x": 23503.43,
+      "y": 0.0,
+      "z": 118619.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_607_sector001_macro": {
+      "x": 131077.1,
+      "y": 0.0,
+      "z": 2934.617,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_607_sector001_macro": {
+      "x": -76997.9,
+      "y": 0.0,
+      "z": -117440.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_607_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_601_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_601_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_601_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_601_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_601_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_608_sector001_macro": {
+      "x": 138576.6,
+      "y": 0.0,
+      "z": 85026.23,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_608_sector001_macro": {
+      "x": -115973.5,
+      "y": 0.0,
+      "z": 117824.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_608_sector001_macro": {
+      "x": -14468.67,
+      "y": 0.0,
+      "z": -1060.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_608_sector001_macro": {
+      "x": -128151.2,
+      "y": 0.0,
+      "z": -109468.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_608_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_609_sector001_macro": {
+      "x": -93144.93,
+      "y": 0.0,
+      "z": 68418.03,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_609_sector001_macro": {
+      "x": -67369.28,
+      "y": 0.0,
+      "z": 148723.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_609_sector001_macro": {
+      "x": -60807.18,
+      "y": 0.0,
+      "z": -32170.72,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_609_sector001_macro": {
+      "x": 158696.5,
+      "y": 0.0,
+      "z": -62249.09,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_609_sector001_macro": {
+      "x": 41106.73,
+      "y": 0.0,
+      "z": -87067.31,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_100_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_100_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_100_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_100_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_100_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_101_sector001_macro": {
+      "x": 3637.3442382812,
+      "y": 0.0,
+      "z": 120528.09375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_101_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_101_sector001_macro": {
+      "x": 106003.796875,
+      "y": 0.0,
+      "z": 11714.935546875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_101_sector001_macro": {
+      "x": -75256.7734375,
+      "y": 0.0,
+      "z": -33358.421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_101_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_102_sector001_macro": {
+      "x": -16199.36328125,
+      "y": 0.0,
+      "z": -64794.8515625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_102_sector001_macro": {
+      "x": 76468.1328125,
+      "y": 0.0,
+      "z": -96198.4296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_102_sector001_macro": {
+      "x": -124678.890625,
+      "y": 0.0,
+      "z": -47108.84765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_102_sector001_macro": {
+      "x": -77654.3203125,
+      "y": 0.0,
+      "z": 125309.953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_102_sector001_macro": {
+      "x": 90514.46875,
+      "y": 0.0,
+      "z": 77155.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_104_sector001shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_104_sector001shcon10_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_104_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_104_sector001_macro": {
+      "x": -613.1934814453,
+      "y": 0.0,
+      "z": 115214.9296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_104_sector001_macro": {
+      "x": 117080.328125,
+      "y": 0.0,
+      "z": 114347.96875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_104_sector001_macro": {
+      "x": -92491.0078125,
+      "y": 0.0,
+      "z": -124889.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_104_sector001_macro": {
+      "x": 18336.318359375,
+      "y": 0.0,
+      "z": -79140.4609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_104_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_104_sector002shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_104_sector002_macro": {
+      "x": -92491.0078125,
+      "y": 0.0,
+      "z": -121375.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_104_sector002_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 119656.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_104_sector002_macro": {
+      "x": -613.1934814453,
+      "y": 0.0,
+      "z": 118718.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_104_sector002_macro": {
+      "x": 117080.328125,
+      "y": 0.0,
+      "z": 117843.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_104_sector002_macro": {
+      "x": 18336.318359375,
+      "y": 0.0,
+      "z": -75625.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_106_sector001_macro": {
+      "x": 121647.03125,
+      "y": 0.0,
+      "z": 111465.1015625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_106_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_106_sector001_macro": {
+      "x": -15650.0546875,
+      "y": 0.0,
+      "z": -88057.8984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_107_sector001_macro": {
+      "x": 114955.0546875,
+      "y": 0.0,
+      "z": 93626.5625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_107_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_107_sector001_macro": {
+      "x": -118565.796875,
+      "y": 0.0,
+      "z": 4700.7827148438,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_107_sector001_macro": {
+      "x": -33514.703125,
+      "y": 0.0,
+      "z": -136578.609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_107_sector001_macro": {
+      "x": 77843.9296875,
+      "y": 0.0,
+      "z": -134397.53125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector001shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector001shcon10_gatezone_macro": {
+      "x": -35487.578125,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector001shcon9_gatezone_macro": {
+      "x": -35156.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector001shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_108_sector001_macro": {
+      "x": 128262.0234375,
+      "y": 0.0,
+      "z": -134751.28125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_108_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_108_sector001_macro": {
+      "x": -15640.625,
+      "y": 0.0,
+      "z": -12908.8056640625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_108_sector001_macro": {
+      "x": 54030.68359375,
+      "y": 0.0,
+      "z": 101330.6171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_108_sector001_macro": {
+      "x": -44812.53125,
+      "y": 0.0,
+      "z": -136466.296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector002shcon5_gatezone_macro": {
+      "x": 35730.46875,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector002shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_108_sector002_macro": {
+      "x": 133539.0625,
+      "y": 0.0,
+      "z": -117875.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_108_sector002_macro": {
+      "x": -108882.8125,
+      "y": 0.0,
+      "z": 133000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_108_sector002_macro": {
+      "x": -10367.1875,
+      "y": 0.0,
+      "z": 3968.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_108_sector002_macro": {
+      "x": 59304.6875,
+      "y": 0.0,
+      "z": 118218.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_108_sector002_macro": {
+      "x": -39539.0625,
+      "y": 0.0,
+      "z": -119593.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector003shcon10_gatezone_macro": {
+      "x": 8314.0,
+      "y": 0.0,
+      "z": -1765.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_108_sector003shcon6_gatezone_macro": {
+      "x": -6197.0,
+      "y": 0.0,
+      "z": -1765.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_108_sector003_macro": {
+      "x": 133566.0625,
+      "y": 32401.0,
+      "z": -66875.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_108_sector003_macro": {
+      "x": -108855.8125,
+      "y": -67377.0,
+      "z": 133063.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_108_sector003_macro": {
+      "x": -10339.1875,
+      "y": 0.0,
+      "z": 4031.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_108_sector003_macro": {
+      "x": 59332.6875,
+      "y": -59747.0,
+      "z": 118281.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_108_sector003_macro": {
+      "x": -81238.0625,
+      "y": 59781.0,
+      "z": -119531.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_109_sector001_macro": {
+      "x": -115810.3515625,
+      "y": 0.0,
+      "z": -24860.451171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_109_sector001_macro": {
+      "x": 82573.1640625,
+      "y": 0.0,
+      "z": -92239.5546875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_109_sector001_macro": {
+      "x": 127966.0625,
+      "y": 0.0,
+      "z": 123632.28125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_110_sector001_macro": {
+      "x": -109002.078125,
+      "y": 0.0,
+      "z": -85623.265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_110_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_110_sector001_macro": {
+      "x": 3378.3110351562,
+      "y": 0.0,
+      "z": -6792.5375976562,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_110_sector001_macro": {
+      "x": 125349.3515625,
+      "y": 0.0,
+      "z": 15909.6376953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_110_sector001_macro": {
+      "x": 116630.1484375,
+      "y": 0.0,
+      "z": -131209.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_111_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_111_sector001_macro": {
+      "x": 95555.3671875,
+      "y": 0.0,
+      "z": 78553.984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_111_sector001_macro": {
+      "x": -10435.958984375,
+      "y": 0.0,
+      "z": 65998.03125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_111_sector001_macro": {
+      "x": -22357.017578125,
+      "y": 0.0,
+      "z": -139766.53125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_111_sector001_macro": {
+      "x": -129370.0859375,
+      "y": 0.0,
+      "z": -126427.765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_112_sector001shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_112_sector001_macro": {
+      "x": 39907.90625,
+      "y": 0.0,
+      "z": 28085.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_112_sector001_macro": {
+      "x": 127631.0859375,
+      "y": 0.0,
+      "z": 128764.296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_112_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 119765.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_112_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -122437.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_112_sector001_macro": {
+      "x": -71305.390625,
+      "y": 0.0,
+      "z": -99017.8203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_112_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_112_sector002_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 119765.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_112_sector002_macro": {
+      "x": 126016.421875,
+      "y": 0.0,
+      "z": 130125.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_112_sector002_macro": {
+      "x": 39907.90625,
+      "y": 0.0,
+      "z": 28085.9375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_112_sector002_macro": {
+      "x": -113140.0625,
+      "y": 0.0,
+      "z": -50164.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_112_sector002_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -122437.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_113_sector001_macro": {
+      "x": -85828.5546875,
+      "y": 0.0,
+      "z": 52478.46875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_113_sector001_macro": {
+      "x": 1565.6280517578,
+      "y": 0.0,
+      "z": 132593.875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_113_sector001_macro": {
+      "x": -113140.0625,
+      "y": 0.0,
+      "z": -50164.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_113_sector001_macro": {
+      "x": 142358.359375,
+      "y": 0.0,
+      "z": 125211.609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_113_sector001_macro": {
+      "x": 125405.6875,
+      "y": 0.0,
+      "z": -141350.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_114_sector001_macro": {
+      "x": -25623.83984375,
+      "y": 0.0,
+      "z": 144203.359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_114_sector001_macro": {
+      "x": -115039.453125,
+      "y": 0.0,
+      "z": 41591.33984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_114_sector001_macro": {
+      "x": 128824.4296875,
+      "y": 0.0,
+      "z": 69666.140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_114_sector001_macro": {
+      "x": 131127.3125,
+      "y": 0.0,
+      "z": -114179.359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_114_sector001_macro": {
+      "x": -130885.6484375,
+      "y": 0.0,
+      "z": -135881.453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_115_sector001_macro": {
+      "x": -29.6058654785,
+      "y": 0.0,
+      "z": -100147.09375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_115_sector001_macro": {
+      "x": -113140.0625,
+      "y": 0.0,
+      "z": -50164.0625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_115_sector001_macro": {
+      "x": -130028.4609375,
+      "y": 0.0,
+      "z": 145028.8125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_115_sector001_macro": {
+      "x": 64411.78125,
+      "y": 0.0,
+      "z": 91019.59375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_115_sector001_macro": {
+      "x": 121893.0390625,
+      "y": 0.0,
+      "z": -70436.6328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_115_sector001_macro": {
+      "x": -29.6,
+      "y": 0.0,
+      "z": -274972.6328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_116_sector001_macro": {
+      "x": 3637.3442382812,
+      "y": 0.0,
+      "z": 120528.09375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_116_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_116_sector001_macro": {
+      "x": 106003.796875,
+      "y": 0.0,
+      "z": 11714.935546875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_116_sector001_macro": {
+      "x": -75256.7734375,
+      "y": 0.0,
+      "z": -33358.421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_116_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_401_sector001_macro": {
+      "x": 112515.4140625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_401_sector001_macro": {
+      "x": -125584.2421875,
+      "y": 0.0,
+      "z": 20137.51953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_401_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_401_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_401_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_402_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_402_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_402_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_402_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_402_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_403_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_403_sector001_macro": {
+      "x": -114870.9765625,
+      "y": 0.0,
+      "z": 7212.39453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_403_sector001_macro": {
+      "x": 136998.828125,
+      "y": 0.0,
+      "z": 93736.3359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_403_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_403_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_400_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_400_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": -46897.58984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_400_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_400_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_400_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_408_sector001_macro": {
+      "x": 108507.6484375,
+      "y": 0.0,
+      "z": 41671.55078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_408_sector001_macro": {
+      "x": -97236.90625,
+      "y": 0.0,
+      "z": 73185.921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_408_sector001_macro": {
+      "x": 13300.4970703125,
+      "y": 0.0,
+      "z": 131769.3125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_408_sector001_macro": {
+      "x": -59697.09765625,
+      "y": 0.0,
+      "z": -53410.734375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_408_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_408_sector001shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_408_sector001shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": 39950.75390625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_408_sector002shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -40119.140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_408_sector002shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_408_sector002_macro": {
+      "x": 154160.15625,
+      "y": 0.0,
+      "z": -42572.265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_408_sector002_macro": {
+      "x": 60644.53125,
+      "y": 0.0,
+      "z": 63693.359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_408_sector002_macro": {
+      "x": -56242.1875,
+      "y": 0.0,
+      "z": 25439.453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_408_sector002_macro": {
+      "x": -139128.90625,
+      "y": 0.0,
+      "z": -62759.765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_408_sector002_macro": {
+      "x": -174195.3125,
+      "y": 0.0,
+      "z": 73255.859375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_407_sector001_macro": {
+      "x": 112585.15625,
+      "y": 0.0,
+      "z": 75820.65625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_407_sector001_macro": {
+      "x": -8041.4887695313,
+      "y": 0.0,
+      "z": -4286.6743164063,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_407_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_407_sector001_macro": {
+      "x": -125446.8671875,
+      "y": 0.0,
+      "z": -86447.296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_407_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_409_sector001_macro": {
+      "x": 98313.890625,
+      "y": 0.0,
+      "z": 118124.78125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_409_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_409_sector001_macro": {
+      "x": -16771.107421875,
+      "y": 0.0,
+      "z": -16040.2607421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_409_sector001_macro": {
+      "x": 125829.3984375,
+      "y": 0.0,
+      "z": -9577.5703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_409_sector001_macro": {
+      "x": -137134.34375,
+      "y": 0.0,
+      "z": -135121.828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_409_sector001_macro": {
+      "x": 104070.5859375,
+      "y": 0.0,
+      "z": -134265.6875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_410_sector001_macro": {
+      "x": -113206.6640625,
+      "y": 0.0,
+      "z": -122957.7265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_410_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_410_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_410_sector001_macro": {
+      "x": 20323.951171875,
+      "y": 0.0,
+      "z": -12126.0107421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_410_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_410_sector001_macro": {
+      "x": 125855.59375,
+      "y": 0.0,
+      "z": 66384.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_411_sector001_macro": {
+      "x": 115133.6015625,
+      "y": 0.0,
+      "z": 131376.65625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_411_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_411_sector001_macro": {
+      "x": 2087.3527832031,
+      "y": 0.0,
+      "z": 81310.1796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_411_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_411_sector001_macro": {
+      "x": -28.2363891602,
+      "y": 0.0,
+      "z": -125437.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_405_sector001_macro": {
+      "x": 69261.015625,
+      "y": 0.0,
+      "z": 57018.04296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_405_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_405_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_405_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_405_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_406_sector001_macro": {
+      "x": 93217.0078125,
+      "y": 0.0,
+      "z": 108440.6953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_406_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_406_sector001_macro": {
+      "x": -122276.546875,
+      "y": 0.0,
+      "z": -96570.9765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_406_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_406_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_404_sector001_macro": {
+      "x": 113604.53125,
+      "y": 0.0,
+      "z": 90601.6171875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_404_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_404_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_404_sector001_macro": {
+      "x": -25038.298828125,
+      "y": 0.0,
+      "z": -14674.4501953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_404_sector001_macro": {
+      "x": 26475.546875,
+      "y": 0.0,
+      "z": -123399.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_418_sector001_macro": {
+      "x": 144230.953125,
+      "y": 0.0,
+      "z": 100215.9453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_418_sector001_macro": {
+      "x": -130629.8984375,
+      "y": 0.0,
+      "z": 47528.22265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_418_sector001_macro": {
+      "x": 7690.43359375,
+      "y": 0.0,
+      "z": 136950.15625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_418_sector001_macro": {
+      "x": 126073.234375,
+      "y": 0.0,
+      "z": -92468.7734375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_418_sector001_macro": {
+      "x": 11258.96484375,
+      "y": 0.0,
+      "z": -13496.154296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_418_sector001_macro": {
+      "x": -106917.28125,
+      "y": 0.0,
+      "z": -117267.7109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_419_sector001_macro": {
+      "x": 113957.03125,
+      "y": 0.0,
+      "z": 56967.4609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_419_sector001_macro": {
+      "x": -132792.328125,
+      "y": 0.0,
+      "z": 84289.421875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_419_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_419_sector001_macro": {
+      "x": 113819.5,
+      "y": 0.0,
+      "z": -49261.69140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_419_sector001_macro": {
+      "x": -59380.2109375,
+      "y": 0.0,
+      "z": -99993.078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_420_sector001_macro": {
+      "x": 5835.8842773438,
+      "y": 0.0,
+      "z": 39668.0703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_420_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_420_sector001_macro": {
+      "x": 100674.6953125,
+      "y": 0.0,
+      "z": 126138.03125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_420_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_420_sector001_macro": {
+      "x": -86050.0859375,
+      "y": 0.0,
+      "z": -129546.203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_416_sector001_macro": {
+      "x": -108109.7890625,
+      "y": 0.0,
+      "z": -70969.53125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_416_sector001_macro": {
+      "x": -131895.703125,
+      "y": 0.0,
+      "z": 62482.46875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_416_sector001_macro": {
+      "x": -21916.24609375,
+      "y": 0.0,
+      "z": 108944.6796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_416_sector001_macro": {
+      "x": 96267.484375,
+      "y": 0.0,
+      "z": -912.8723144531,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_416_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_416_sector001_macro": {
+      "x": 137835.0,
+      "y": 0.0,
+      "z": 138364.3125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_416_sector001shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_416_sector001shcon9_gatezone_macro": {
+      "x": -42317.375,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_416_sector002shcon6_gatezone_macro": {
+      "x": 35394.53125,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_416_sector002shcon10_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_416_sector002_macro": {
+      "x": 44707.03125,
+      "y": 0.0,
+      "z": -150816.40625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_416_sector002_macro": {
+      "x": -103000.0,
+      "y": 0.0,
+      "z": 92527.34375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_416_sector002_macro": {
+      "x": -11613.28125,
+      "y": 0.0,
+      "z": 110593.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_416_sector002_macro": {
+      "x": 16015.625,
+      "y": 0.0,
+      "z": 18140.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_416_sector002_macro": {
+      "x": 93589.84375,
+      "y": 0.0,
+      "z": -27550.78125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_416_sector002_macro": {
+      "x": -94498.046875,
+      "y": 0.0,
+      "z": -59429.6875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_417_sector001_macro": {
+      "x": 110546.3984375,
+      "y": 0.0,
+      "z": 98756.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_417_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_417_sector001_macro": {
+      "x": -94243.7109375,
+      "y": 0.0,
+      "z": -2278.6789550781,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_417_sector001_macro": {
+      "x": 54982.7421875,
+      "y": 0.0,
+      "z": -15693.828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_417_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_421_sector001_macro": {
+      "x": 116840.265625,
+      "y": 0.0,
+      "z": 132652.296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_421_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_421_sector001_macro": {
+      "x": -118450.9609375,
+      "y": 0.0,
+      "z": -31718.89453125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_421_sector001_macro": {
+      "x": 124631.625,
+      "y": 0.0,
+      "z": -26916.669921875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_421_sector001_macro": {
+      "x": 16304.626953125,
+      "y": 0.0,
+      "z": -127383.78125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_421_sector001_macro": {
+      "x": 4954.5439453125,
+      "y": 0.0,
+      "z": 25020.609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_422_sector001_macro": {
+      "x": 131256.40625,
+      "y": 0.0,
+      "z": 109510.5078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_422_sector001_macro": {
+      "x": -131350.703125,
+      "y": 0.0,
+      "z": 33832.86328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_422_sector001_macro": {
+      "x": 3365.5854492188,
+      "y": 0.0,
+      "z": 59102.8984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_422_sector001_macro": {
+      "x": -90169.140625,
+      "y": 0.0,
+      "z": -98276.6328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_422_sector001_macro": {
+      "x": 128029.84375,
+      "y": 0.0,
+      "z": -126662.9765625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_423_sector001_macro": {
+      "x": 23135.2734375,
+      "y": 0.0,
+      "z": 51201.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_423_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_423_sector001_macro": {
+      "x": -110522.0625,
+      "y": 0.0,
+      "z": -27394.05078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_423_sector001_macro": {
+      "x": 134722.9375,
+      "y": 0.0,
+      "z": -34124.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_423_sector001_macro": {
+      "x": 6213.3100585938,
+      "y": 0.0,
+      "z": -124500.546875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_423_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_423_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 39626.3046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_423_sector002shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_423_sector002shcon10_gatezone_macro": {
+      "x": -39867.1875,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_423_sector002_macro": {
+      "x": -105140.625,
+      "y": 0.0,
+      "z": -35406.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_423_sector002_macro": {
+      "x": -112796.875,
+      "y": 0.0,
+      "z": 112953.125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_423_sector002_macro": {
+      "x": -29218.75,
+      "y": 0.0,
+      "z": 135937.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_423_sector002_macro": {
+      "x": -34781.25,
+      "y": 0.0,
+      "z": -155890.625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_423_sector002_macro": {
+      "x": 129593.75,
+      "y": 0.0,
+      "z": -68828.125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_412_sector001_macro": {
+      "x": 16763.81640625,
+      "y": 0.0,
+      "z": 101305.0703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_412_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_412_sector001_macro": {
+      "x": -118708.7421875,
+      "y": 0.0,
+      "z": -122055.3828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_412_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_412_sector001_macro": {
+      "x": 130451.9375,
+      "y": 0.0,
+      "z": 122780.3671875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_413_sector001_macro": {
+      "x": 142147.0625,
+      "y": 0.0,
+      "z": 139021.984375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_413_sector001_macro": {
+      "x": -124250.3828125,
+      "y": 0.0,
+      "z": -60352.37890625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_413_sector001_macro": {
+      "x": 34197.70703125,
+      "y": 0.0,
+      "z": 79271.4296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_413_sector001_macro": {
+      "x": 1465.4846191406,
+      "y": 0.0,
+      "z": -36591.02734375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_413_sector001_macro": {
+      "x": 160013.84375,
+      "y": 0.0,
+      "z": -137160.578125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_414_sector001_macro": {
+      "x": 127875.8046875,
+      "y": 0.0,
+      "z": 121692.59375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_414_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_414_sector001_macro": {
+      "x": -111063.4140625,
+      "y": 0.0,
+      "z": 1798.828125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_414_sector001_macro": {
+      "x": 107990.3125,
+      "y": 0.0,
+      "z": -100811.7265625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_414_sector001_macro": {
+      "x": -16847.9453125,
+      "y": 0.0,
+      "z": -131554.015625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_415_sector001_macro": {
+      "x": 12176.6240234375,
+      "y": 0.0,
+      "z": 34026.23046875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_415_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_415_sector001_macro": {
+      "x": -103927.78125,
+      "y": 0.0,
+      "z": -93512.84375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_415_sector001_macro": {
+      "x": 145197.546875,
+      "y": 0.0,
+      "z": -22829.4609375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_415_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_424_sector001_macro": {
+      "x": 29622.54296875,
+      "y": 0.0,
+      "z": 9394.142578125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_424_sector001_macro": {
+      "x": -133513.140625,
+      "y": 0.0,
+      "z": 78522.953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_424_sector001_macro": {
+      "x": -959.2628173828,
+      "y": 0.0,
+      "z": 129742.078125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_424_sector001_macro": {
+      "x": -32504.509765625,
+      "y": 0.0,
+      "z": -105484.7109375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_424_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_424_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_424_sector001shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 39890.54296875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_424_sector002shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -39899.4140625,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_424_sector002shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_424_sector002_macro": {
+      "x": -128312.5,
+      "y": 0.0,
+      "z": 129885.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_424_sector002_macro": {
+      "x": 129125.0,
+      "y": 0.0,
+      "z": 120612.796875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_424_sector002_macro": {
+      "x": 32875.0,
+      "y": 0.0,
+      "z": 78533.6875,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_424_sector002_macro": {
+      "x": -155312.5,
+      "y": 0.0,
+      "z": -48978.02734375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_424_sector002_macro": {
+      "x": 33562.5,
+      "y": 0.0,
+      "z": -116887.203125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_425_sector001_macro": {
+      "x": -114153.03125,
+      "y": 0.0,
+      "z": 116118.703125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_425_sector001_macro": {
+      "x": 668.9185791016,
+      "y": 0.0,
+      "z": -15144.36328125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_425_sector001_macro": {
+      "x": 92201.28125,
+      "y": 0.0,
+      "z": -35614.76953125,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_425_sector001_macro": {
+      "x": 75408.1328125,
+      "y": 0.0,
+      "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_425_sector001_macro": {
+      "x": -19410.224609375,
+      "y": 0.0,
+      "z": -108342.3359375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   }
+}
