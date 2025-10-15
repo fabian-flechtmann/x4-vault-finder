@@ -11,6 +11,7 @@ It uses colors for highlighting:
 * Red for khaak stations
 * Green for player stations
 
+<img width="939" height="817" alt="Screenshot_20251015_095808" src="https://github.com/user-attachments/assets/13c8fa99-07ff-4cf4-bf7d-f5790c7acf0c" />
 
 ## How to run
 
