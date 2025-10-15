@@ -39,6 +39,7 @@ def maybe_store_object(path):
             'class': attrib.get('class', ''),
             'code': code,
             'has_blueprints': False,
+            'has_signalleak': False,
             'has_wares': False,
             'macro': attrib.get('macro', ''),
             'owner': attrib.get('owner', '')
@@ -47,6 +48,8 @@ def maybe_store_object(path):
         vault_code = path[-4].attrib['code']
         if path[-1].attrib.get('class', '') == 'collectableblueprints':
             data['sectors'][current_sector]['objects'][vault_code]['has_blueprints'] = True
+        if path[-1].attrib.get('class', '') == 'signalleak':
+            data['sectors'][current_sector]['objects'][vault_code]['has_signalleak'] = True
         if path[-1].attrib.get('class', '') == 'collectablewares':
             data['sectors'][current_sector]['objects'][vault_code]['has_wares'] = True
 
@@ -98,7 +101,7 @@ def is_vault_loot(path):
     return (
         len(path) >= 4 and
         path[-1].tag == 'component' and
-        path[-1].attrib.get('class', '') in ['collectablewares', 'collectableblueprints'] and
+        path[-1].attrib.get('class', '') in ['collectablewares', 'collectableblueprints', 'signalleak'] and
         is_vault(path[:-3])
     )
 

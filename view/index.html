@@ -5,17 +5,23 @@
         <script type="text/javascript" src="data.js"></script>
         <script type="text/javascript">
             function getColor(o) {
-                if (o["owner"] == "khaak") {
+                if (o["class"] == "station" && o["owner"] == "khaak") {
                     return "crimson"
                 }
+                else if (o["class"] == "station" && o["owner"] == "player") {
+                    return "green"
+                }
                 else if (o["class"] == "station") {
-                    return "#888"
+                    return "silver"
                 }
                 else if (o["has_blueprints"]){
                     return "dodgerblue"
                 }
                 else if (o["has_wares"]){
                     return "blueviolet"
+                }
+                else if (o["has_signalleak"]){
+                    return "mediumvioletred"
                 }
                 else {
                     return "peru"
@@ -30,6 +36,9 @@
                 }
                 else if (o["has_wares"]) {
                     return "Vault with wares"
+                }
+                else if (o["has_signalleak"]) {
+                    return "Vault with signalleak"
                 }
                 else {
                     return "Vault (empty)"
@@ -68,20 +77,20 @@
                         xaxis: {
                             title: "X",
                             color: "#fafafa",
-                            gridcolor: "#888",
+                            gridcolor: "silver",
                             zerolinecolor: "#fafafa",
                             autorange: "reversed"
                         },
                         yaxis: {
                             title: "Y",
                             color: "#fafafa",
-                            gridcolor: "#888",
+                            gridcolor: "silver",
                             zerolinecolor: "#fafafa"
                         },
                         zaxis: {
                             title: "Z",
                             color: "#fafafa",
-                            gridcolor: "#888",
+                            gridcolor: "silver",
                             zerolinecolor: "#fafafa"
                         },
                         aspectmode: "data",
@@ -96,6 +105,7 @@
             function maybe_loot_tag(sector_data) {
                 let has_blueprints = false;
                 let has_wares = false;
+                let has_signalleak = false;
                 let has_empty_vault = false;
                 for (let [code, object_data] of Object.entries(sector_data["objects"])) {
                     if (object_data["has_blueprints"]) {
@@ -103,6 +113,9 @@
                     }
                     if (object_data["has_wares"]) {
                         has_wares = true;
+                    }
+                    if (object_data["has_signalleak"]) {
+                        has_signalleak = true;
                     }
                     if (!object_data["has_blueprints"] && !object_data["has_wares"] && (object_data["class"] == "datavault" || object_data["macro"].includes("erlking_vault"))) {
                         has_empty_vault = true;
@@ -113,6 +126,9 @@
                 }
                 else if (has_wares) {
                     return `<span class="tag wares">Vault with wares</span>`
+                }
+                else if (has_signalleak) {
+                    return `<span class="tag signalleak">Vault with signalleak</span>`
                 }
                 else if (has_empty_vault) {
                     return `<span class="tag empty">Vault (empty)</span>`
@@ -197,6 +213,10 @@
 
             .blueprints {
                 background: dodgerblue;
+            }
+
+            .signalleak {
+                background: mediumvioletred;
             }
 
             .wares {

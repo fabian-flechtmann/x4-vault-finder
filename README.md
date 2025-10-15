@@ -4,10 +4,12 @@ This is a visualisation tool for X4 save files. It shows a 3D plot for every sec
 
 It uses colors for highlighting:
 
-* Red for khaak stations
-* Purple for vaults with collectable wares
 * Blue for vaults with collectable blueprints
+* Purple for vaults with collectable wares
+* Pink for vaults with signal leaks
 * Orange for empty vaults
+* Red for khaak stations
+* Green for player stations
 
 
 ## How to run
