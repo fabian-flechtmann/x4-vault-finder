@@ -14,6 +14,9 @@
                 else if (o["class"] == "station") {
                     return "silver"
                 }
+                else if (o["class"] == "gate") {
+                    return "gold"
+                }
                 else if (o["has_blueprints"]){
                     return "dodgerblue"
                 }
@@ -30,6 +33,9 @@
             function getHoverText(o) {
                 if (o["class"] == "station") {
                     return o["owner"] + " station"
+                }
+                if (o["class"] == "gate") {
+                    return "gate"
                 }
                 else if (o["has_blueprints"]) {
                     return "Vault with blueprints"

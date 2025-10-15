@@ -17,15 +17,11 @@ It uses colors for highlighting:
 
 1. Clone this repository
 2. On your local machine open a shell in this directory
-3. Find a savegame file and copy its path
-    * Under Windows, check `Documents\Egosoft\X4\<YourSteamID>\save`
-    * Under Linux it's usually `$HOME/.config/EgoSoft/X4/<user-id>/save/`
-    * The filename should end with `.xml.gz`
-4. Pipe your savefile into the python script
-    * Windows: `TODO`
-    * Linux: `python3 x4-vault-finder.py < $HOME/.config/EgoSoft/X4/<user-id>/save/<name>.xml.gz`
-5. A browser window will open
-6. Click a sector on the left to see its map. The plot is 3D and can be moved with the mouse. Points of interest are highlighted.
+3. Pipe your savefile into the python script
+    * Windows: `python x4-vault-finder.py < "%USERPROFILE%\Documents\Egosoft\X4\<user-id>\save\<name>.xml.gz"`
+    * Linux:  `python3 x4-vault-finder.py < "$HOME/.config/EgoSoft/X4/<user-id>/save/<name>.xml.gz"`
+4. A browser window will open
+5. Click a sector on the left to see its map. The plot is 3D and can be moved with the mouse. Points of interest are highlighted.
 
 
 ## Technical details

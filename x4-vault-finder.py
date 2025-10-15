@@ -36,7 +36,7 @@ def maybe_store_object(path):
             'name': x4_names.get(current_sector, current_sector),
             'objects': {}
         }
-    elif is_station(path) or is_vault(path):
+    elif is_station(path) or is_gate(path) or is_vault(path):
         code = attrib['code']
         data['sectors'][current_sector]['objects'][code] = {
             'class': attrib.get('class', ''),
@@ -58,7 +58,7 @@ def maybe_store_object(path):
 
 
 def maybe_store_position(path):
-    if not (is_station(path) or is_vault(path)):
+    if not (is_station(path) or is_gate(path) or is_vault(path)):
         return
     position = [0, 0, 0]
     for elem in path:
@@ -92,6 +92,11 @@ def is_sector(path):
 
 def is_station(path):
     return path[-1].tag == 'component' and path[-1].attrib.get('class', '') == 'station'
+
+
+def is_gate(path):
+    return False
+    # return path[-1].tag == 'component' and path[-1].attrib.get('class', '') == 'gate'
 
 
 def is_vault(path):
