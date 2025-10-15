@@ -3615,362 +3615,122 @@
       "roll": 0.0,
       "yaw": 0.0
    },
-   "tzonecluster_500_sector001shcon6_gatezone_macro": {
-      "x": -55785.2,
+   "zone004_cluster_725_sector001_macro": {
+      "x": -100000.0,
       "y": 0.0,
-      "z": -200000.0,
+      "z": 55000.0,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "tzonecluster_500_sector001shcon10_gatezone_macro": {
-      "x": -45738.28,
+   "zone001_cluster_725_sector001_macro": {
+      "x": 85.55412,
       "y": 0.0,
-      "z": -200000.0,
+      "z": 115545.4,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "tzonecluster_500_sector001shcon4_gatezone_macro": {
-      "x": 76886.7,
+   "zone002_cluster_725_sector001_macro": {
+      "x": 137328.5,
       "y": 0.0,
-      "z": -207957.0,
+      "z": 176.5,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "tzonecluster_500_sector001shcon2_gatezone_macro": {
-      "x": 66960.9,
+   "zone003_cluster_725_sector001_macro": {
+      "x": 156890.0,
       "y": 0.0,
-      "z": -207957.0,
+      "z": -124320.0,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone001_cluster_500_sector001_macro": {
-      "x": -127062.5,
+   "zone005_cluster_725_sector001_macro": {
+      "x": -1500.2,
       "y": 0.0,
-      "z": 133718.8,
+      "z": -126969.5,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone002_cluster_500_sector001_macro": {
-      "x": -10960.94,
+   "zone004_cluster_730_sector001_macro": {
+      "x": -127517.8,
       "y": 0.0,
-      "z": 112070.3,
+      "z": 34255.37,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone003_cluster_500_sector001_macro": {
-      "x": -97898.44,
+   "zone001_cluster_730_sector001_macro": {
+      "x": 85.55412,
       "y": 0.0,
-      "z": -23632.81,
+      "z": 115545.4,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone004_cluster_500_sector001_macro": {
-      "x": 103164.1,
+   "zone002_cluster_730_sector001_macro": {
+      "x": 137328.5,
       "y": 0.0,
-      "z": -32492.19,
+      "z": 138576.5,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone005_cluster_500_sector001_macro": {
-      "x": -23023.44,
+   "zone003_cluster_730_sector001_macro": {
+      "x": 105554.4,
       "y": 0.0,
-      "z": -160132.8,
+      "z": -127903.8,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "tzonecluster_500_sector002shcon5_gatezone_macro": {
-      "x": -50000.0,
+   "zone005_cluster_730_sector001_macro": {
+      "x": -129500.2,
       "y": 0.0,
-      "z": 200000.0,
+      "z": -126969.5,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "tzonecluster_500_sector002shcon9_gatezone_macro": {
-      "x": -39827.2,
+   "zone004_cluster_740_sector001_macro": {
+      "x": -127517.8,
       "y": 0.0,
-      "z": 200000.0,
+      "z": 34255.37,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone002_cluster_500_sector002_macro": {
-      "x": -118489.4,
+   "zone001_cluster_740_sector001_macro": {
+      "x": 85.55412,
       "y": 0.0,
-      "z": -131687.5,
+      "z": 115545.4,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone003_cluster_500_sector002_macro": {
-      "x": -7132.69,
+   "zone002_cluster_740_sector001_macro": {
+      "x": 200000.0,
       "y": 0.0,
-      "z": 531.25,
+      "z": 0.0,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone001_cluster_500_sector002_macro": {
-      "x": -78593.63,
+   "zone003_cluster_740_sector001_macro": {
+      "x": 105554.4,
       "y": 0.0,
-      "z": 157937.5,
+      "z": -127903.8,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone004_cluster_500_sector002_macro": {
-      "x": 101721.7,
+   "zone005_cluster_740_sector001_macro": {
+      "x": -129500.2,
       "y": 0.0,
-      "z": 100656.3,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_500_sector002_macro": {
-      "x": 98694.83,
-      "y": 0.0,
-      "z": -126406.3,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone006_cluster_500_sector002_macro": {
-      "x": -184409.83,
-      "y": 0.0,
-      "z": -3343.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_500_sector003shcon5_gatezone_macro": {
-      "x": 40054.7,
-      "y": 0.0,
-      "z": 200000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_500_sector003shcon9_gatezone_macro": {
-      "x": 50000.0,
-      "y": 0.0,
-      "z": 200000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_500_sector003_macro": {
-      "x": 44015.63,
-      "y": 0.0,
-      "z": 158125.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_500_sector003_macro": {
-      "x": -117046.9,
-      "y": 0.0,
-      "z": 82593.75,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_500_sector003_macro": {
-      "x": -115796.9,
-      "y": 0.0,
-      "z": -96109.38,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_500_sector003_macro": {
-      "x": 34671.88,
-      "y": 0.0,
-      "z": -152515.6,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_500_sector003_macro": {
-      "x": 110359.4,
-      "y": 0.0,
-      "z": 7250.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_501_sector001_macro": {
-      "x": -10960.94,
-      "y": 0.0,
-      "z": 112070.3,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_501_sector001_macro": {
-      "x": -97898.44,
-      "y": 0.0,
-      "z": -23632.81,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_501_sector001_macro": {
-      "x": -127062.5,
-      "y": 0.0,
-      "z": 133718.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_501_sector001_macro": {
-      "x": -23023.44,
-      "y": 0.0,
-      "z": -160132.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_501_sector001_macro": {
-      "x": 103164.1,
-      "y": 0.0,
-      "z": -32492.19,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_502_sector001_macro": {
-      "x": 103164.1,
-      "y": 0.0,
-      "z": -32492.19,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_502_sector001_macro": {
-      "x": 108009.3,
-      "y": 0.0,
-      "z": 115933.7,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_502_sector001_macro": {
-      "x": -97898.44,
-      "y": 0.0,
-      "z": -23632.81,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_502_sector001_macro": {
-      "x": -23023.44,
-      "y": 0.0,
-      "z": -160132.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_502_sector001_macro": {
-      "x": -127062.5,
-      "y": 0.0,
-      "z": 133718.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone006_cluster_502_sector001_macro": {
-      "x": 47000.0,
-      "y": 0.0,
-      "z": 172000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_503_sector001_macro": {
-      "x": -2269.199,
-      "y": 0.0,
-      "z": 165758.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_503_sector001_macro": {
-      "x": -199365.3,
-      "y": 0.0,
-      "z": -55454.45,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_503_sector001_macro": {
-      "x": -190039.3,
-      "y": 0.0,
-      "z": 180073.9,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_503_sector001_macro": {
-      "x": -23023.44,
-      "y": 0.0,
-      "z": -160132.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_503_sector001_macro": {
-      "x": 139680.0,
-      "y": 0.0,
-      "z": -3215.59,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_504_sector001_macro": {
-      "x": -23023.44,
-      "y": 0.0,
-      "z": -160132.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_504_sector001_macro": {
-      "x": -226443.3,
-      "y": 0.0,
-      "z": -97194.67,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_504_sector001_macro": {
-      "x": 137904.1,
-      "y": 0.0,
-      "z": 135199.3,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_504_sector001_macro": {
-      "x": -127062.5,
-      "y": 0.0,
-      "z": 133718.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_504_sector001_macro": {
-      "x": 157616.8,
-      "y": 0.0,
-      "z": -84263.63,
+      "z": -126969.5,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0
@@ -5239,558 +4999,6 @@
       "roll": 0.0,
       "yaw": 0.0
    },
-   "zone004_cluster_730_sector001_macro": {
-      "x": -127517.8,
-      "y": 0.0,
-      "z": 34255.37,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_730_sector001_macro": {
-      "x": 85.55412,
-      "y": 0.0,
-      "z": 115545.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_730_sector001_macro": {
-      "x": 137328.5,
-      "y": 0.0,
-      "z": 138576.5,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_730_sector001_macro": {
-      "x": 105554.4,
-      "y": 0.0,
-      "z": -127903.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_730_sector001_macro": {
-      "x": -129500.2,
-      "y": 0.0,
-      "z": -126969.5,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_602_sector001_macro": {
-      "x": -4656.418,
-      "y": 0.0,
-      "z": -121536.6,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_602_sector001_macro": {
-      "x": -133889.7,
-      "y": 0.0,
-      "z": -88467.94,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_602_sector001_macro": {
-      "x": -113247.6,
-      "y": 0.0,
-      "z": 72268.07,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_602_sector001_macro": {
-      "x": 85.55412,
-      "y": 0.0,
-      "z": 115545.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_602_sector001_macro": {
-      "x": 121474.9,
-      "y": 0.0,
-      "z": -4501.229,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_603_sector001_macro": {
-      "x": 123600.2,
-      "y": 0.0,
-      "z": -99607.15,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_603_sector001_macro": {
-      "x": 22972.12,
-      "y": 0.0,
-      "z": 119150.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_603_sector001_macro": {
-      "x": -98169.94,
-      "y": 0.0,
-      "z": 101618.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_603_sector001_macro": {
-      "x": 142074.0,
-      "y": 0.0,
-      "z": 71801.65,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_603_sector001_macro": {
-      "x": -57990.49,
-      "y": 0.0,
-      "z": -130164.1,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_605_sector001_macro": {
-      "x": -84684.0,
-      "y": 0.0,
-      "z": 55644.57,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_605_sector001_macro": {
-      "x": -15863.0,
-      "y": 0.0,
-      "z": 31730.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_605_sector001_macro": {
-      "x": 90789.0,
-      "y": 0.0,
-      "z": 39800.822,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_605_sector001_macro": {
-      "x": 55319.0,
-      "y": 0.0,
-      "z": -98948.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_605_sector001_macro": {
-      "x": -87130.6,
-      "y": 0.0,
-      "z": -70078.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector001shcon6_gatezone_macro": {
-      "x": -50000.0,
-      "y": 0.0,
-      "z": -200000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector001shcon10_gatezone_macro": {
-      "x": -43159.09,
-      "y": 0.0,
-      "z": -200000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector001shcon11_gatezone_macro": {
-      "x": 200000.0,
-      "y": 0.0,
-      "z": 50000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_606_sector001_macro": {
-      "x": 51992.35,
-      "y": 0.0,
-      "z": -1060.822,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_606_sector001_macro": {
-      "x": -127513.9,
-      "y": 0.0,
-      "z": 82085.13,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_606_sector001_macro": {
-      "x": 133484.8,
-      "y": 0.0,
-      "z": 131372.6,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_606_sector001_macro": {
-      "x": 105554.4,
-      "y": 0.0,
-      "z": -127903.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_606_sector001_macro": {
-      "x": -22721.23,
-      "y": 0.0,
-      "z": -122067.9,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector002shcon5_gatezone_macro": {
-      "x": 40468.75,
-      "y": 0.0,
-      "z": 200000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector002shcon9_gatezone_macro": {
-      "x": 50000.0,
-      "y": 0.0,
-      "z": 200000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector002shcon11_gatezone_macro": {
-      "x": 200000.0,
-      "y": 0.0,
-      "z": -40046.88,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector002shcon12_gatezone_macro": {
-      "x": 200000.0,
-      "y": 0.0,
-      "z": -25000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_606_sector002_macro": {
-      "x": -119849.7,
-      "y": 0.0,
-      "z": -93007.81,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_606_sector002_macro": {
-      "x": -107447.6,
-      "y": 0.0,
-      "z": 124554.7,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_606_sector002_macro": {
-      "x": -6696.777,
-      "y": 0.0,
-      "z": -60289.06,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_606_sector002_macro": {
-      "x": 50325.93,
-      "y": 0.0,
-      "z": 153750.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_606_sector002_macro": {
-      "x": 156852.0,
-      "y": 0.0,
-      "z": -61492.19,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector003shcon7_gatezone_macro": {
-      "x": -200000.0,
-      "y": 0.0,
-      "z": -44060.06,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "tzonecluster_606_sector003shcon8_gatezone_macro": {
-      "x": -200000.0,
-      "y": 0.0,
-      "z": -25000.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_606_sector003_macro": {
-      "x": 115195.3,
-      "y": 0.0,
-      "z": 14787.11,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_606_sector003_macro": {
-      "x": -3023.438,
-      "y": 0.0,
-      "z": -6614.258,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_606_sector003_macro": {
-      "x": -144757.8,
-      "y": 0.0,
-      "z": -39335.94,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_606_sector003_macro": {
-      "x": 117000.0,
-      "y": 0.0,
-      "z": -133457.0,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_606_sector003_macro": {
-      "x": -46281.25,
-      "y": 0.0,
-      "z": 138438.5,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_604_sector001_macro": {
-      "x": -22312.77,
-      "y": 0.0,
-      "z": 118045.5,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_604_sector001_macro": {
-      "x": 121771.5,
-      "y": 0.0,
-      "z": 106741.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_604_sector001_macro": {
-      "x": -73025.88,
-      "y": 0.0,
-      "z": -1060.822,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_604_sector001_macro": {
-      "x": 105554.4,
-      "y": 0.0,
-      "z": -127903.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_604_sector001_macro": {
-      "x": -30677.88,
-      "y": 0.0,
-      "z": -122754.3,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_607_sector001_macro": {
-      "x": -96044.66,
-      "y": 0.0,
-      "z": 106400.7,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_607_sector001_macro": {
-      "x": 23503.43,
-      "y": 0.0,
-      "z": 118619.1,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_607_sector001_macro": {
-      "x": 131077.1,
-      "y": 0.0,
-      "z": 2934.617,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_607_sector001_macro": {
-      "x": -76997.9,
-      "y": 0.0,
-      "z": -117440.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_607_sector001_macro": {
-      "x": 105554.4,
-      "y": 0.0,
-      "z": -127903.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_601_sector001_macro": {
-      "x": -127517.8,
-      "y": 0.0,
-      "z": 34255.37,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_601_sector001_macro": {
-      "x": 85.55412,
-      "y": 0.0,
-      "z": 115545.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_601_sector001_macro": {
-      "x": 137328.5,
-      "y": 0.0,
-      "z": 138576.5,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_601_sector001_macro": {
-      "x": 105554.4,
-      "y": 0.0,
-      "z": -127903.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_601_sector001_macro": {
-      "x": -129500.2,
-      "y": 0.0,
-      "z": -126969.5,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_608_sector001_macro": {
-      "x": 138576.6,
-      "y": 0.0,
-      "z": 85026.23,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_608_sector001_macro": {
-      "x": -115973.5,
-      "y": 0.0,
-      "z": 117824.6,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_608_sector001_macro": {
-      "x": -14468.67,
-      "y": 0.0,
-      "z": -1060.822,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_608_sector001_macro": {
-      "x": -128151.2,
-      "y": 0.0,
-      "z": -109468.4,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_608_sector001_macro": {
-      "x": 105554.4,
-      "y": 0.0,
-      "z": -127903.8,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone001_cluster_609_sector001_macro": {
-      "x": -93144.93,
-      "y": 0.0,
-      "z": 68418.03,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone002_cluster_609_sector001_macro": {
-      "x": -67369.28,
-      "y": 0.0,
-      "z": 148723.7,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone005_cluster_609_sector001_macro": {
-      "x": -60807.18,
-      "y": 0.0,
-      "z": -32170.72,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone004_cluster_609_sector001_macro": {
-      "x": 158696.5,
-      "y": 0.0,
-      "z": -62249.09,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
-   "zone003_cluster_609_sector001_macro": {
-      "x": 41106.73,
-      "y": 0.0,
-      "z": -87067.31,
-      "pitch": 0.0,
-      "roll": 0.0,
-      "yaw": 0.0
-   },
    "zone003_cluster_100_sector001_macro": {
       "x": 69261.015625,
       "y": 0.0,
@@ -6635,6 +5843,878 @@
       "x": 75408.1328125,
       "y": 0.0,
       "z": -126087.234375,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon6_gatezone_macro": {
+      "x": -55785.2,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon10_gatezone_macro": {
+      "x": -45738.28,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon4_gatezone_macro": {
+      "x": 76886.7,
+      "y": 0.0,
+      "z": -207957.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector001shcon2_gatezone_macro": {
+      "x": 66960.9,
+      "y": 0.0,
+      "z": -207957.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_500_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_500_sector001_macro": {
+      "x": -10960.94,
+      "y": 0.0,
+      "z": 112070.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_500_sector001_macro": {
+      "x": -97898.44,
+      "y": 0.0,
+      "z": -23632.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_500_sector001_macro": {
+      "x": 103164.1,
+      "y": 0.0,
+      "z": -32492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_500_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector002shcon5_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector002shcon9_gatezone_macro": {
+      "x": -39827.2,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_500_sector002_macro": {
+      "x": -118489.4,
+      "y": 0.0,
+      "z": -131687.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_500_sector002_macro": {
+      "x": -7132.69,
+      "y": 0.0,
+      "z": 531.25,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_500_sector002_macro": {
+      "x": -78593.63,
+      "y": 0.0,
+      "z": 157937.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_500_sector002_macro": {
+      "x": 101721.7,
+      "y": 0.0,
+      "z": 100656.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_500_sector002_macro": {
+      "x": 98694.83,
+      "y": 0.0,
+      "z": -126406.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_500_sector002_macro": {
+      "x": -184409.83,
+      "y": 0.0,
+      "z": -3343.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector003shcon5_gatezone_macro": {
+      "x": 40054.7,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_500_sector003shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_500_sector003_macro": {
+      "x": 44015.63,
+      "y": 0.0,
+      "z": 158125.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_500_sector003_macro": {
+      "x": -117046.9,
+      "y": 0.0,
+      "z": 82593.75,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_500_sector003_macro": {
+      "x": -115796.9,
+      "y": 0.0,
+      "z": -96109.38,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_500_sector003_macro": {
+      "x": 34671.88,
+      "y": 0.0,
+      "z": -152515.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_500_sector003_macro": {
+      "x": 110359.4,
+      "y": 0.0,
+      "z": 7250.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_501_sector001_macro": {
+      "x": -10960.94,
+      "y": 0.0,
+      "z": 112070.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_501_sector001_macro": {
+      "x": -97898.44,
+      "y": 0.0,
+      "z": -23632.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_501_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_501_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_501_sector001_macro": {
+      "x": 103164.1,
+      "y": 0.0,
+      "z": -32492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_502_sector001_macro": {
+      "x": 103164.1,
+      "y": 0.0,
+      "z": -32492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_502_sector001_macro": {
+      "x": 108009.3,
+      "y": 0.0,
+      "z": 115933.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_502_sector001_macro": {
+      "x": -97898.44,
+      "y": 0.0,
+      "z": -23632.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_502_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_502_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone006_cluster_502_sector001_macro": {
+      "x": 47000.0,
+      "y": 0.0,
+      "z": 172000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_503_sector001_macro": {
+      "x": -2269.199,
+      "y": 0.0,
+      "z": 165758.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_503_sector001_macro": {
+      "x": -199365.3,
+      "y": 0.0,
+      "z": -55454.45,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_503_sector001_macro": {
+      "x": -190039.3,
+      "y": 0.0,
+      "z": 180073.9,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_503_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_503_sector001_macro": {
+      "x": 139680.0,
+      "y": 0.0,
+      "z": -3215.59,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_504_sector001_macro": {
+      "x": -23023.44,
+      "y": 0.0,
+      "z": -160132.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_504_sector001_macro": {
+      "x": -226443.3,
+      "y": 0.0,
+      "z": -97194.67,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_504_sector001_macro": {
+      "x": 137904.1,
+      "y": 0.0,
+      "z": 135199.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_504_sector001_macro": {
+      "x": -127062.5,
+      "y": 0.0,
+      "z": 133718.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_504_sector001_macro": {
+      "x": 157616.8,
+      "y": 0.0,
+      "z": -84263.63,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_602_sector001_macro": {
+      "x": -4656.418,
+      "y": 0.0,
+      "z": -121536.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_602_sector001_macro": {
+      "x": -133889.7,
+      "y": 0.0,
+      "z": -88467.94,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_602_sector001_macro": {
+      "x": -113247.6,
+      "y": 0.0,
+      "z": 72268.07,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_602_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_602_sector001_macro": {
+      "x": 121474.9,
+      "y": 0.0,
+      "z": -4501.229,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_603_sector001_macro": {
+      "x": 123600.2,
+      "y": 0.0,
+      "z": -99607.15,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_603_sector001_macro": {
+      "x": 22972.12,
+      "y": 0.0,
+      "z": 119150.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_603_sector001_macro": {
+      "x": -98169.94,
+      "y": 0.0,
+      "z": 101618.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_603_sector001_macro": {
+      "x": 142074.0,
+      "y": 0.0,
+      "z": 71801.65,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_603_sector001_macro": {
+      "x": -57990.49,
+      "y": 0.0,
+      "z": -130164.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_605_sector001_macro": {
+      "x": -84684.0,
+      "y": 0.0,
+      "z": 55644.57,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_605_sector001_macro": {
+      "x": -15863.0,
+      "y": 0.0,
+      "z": 31730.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_605_sector001_macro": {
+      "x": 90789.0,
+      "y": 0.0,
+      "z": 39800.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_605_sector001_macro": {
+      "x": 55319.0,
+      "y": 0.0,
+      "z": -98948.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_605_sector001_macro": {
+      "x": -87130.6,
+      "y": 0.0,
+      "z": -70078.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector001shcon6_gatezone_macro": {
+      "x": -50000.0,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector001shcon10_gatezone_macro": {
+      "x": -43159.09,
+      "y": 0.0,
+      "z": -200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector001shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": 50000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_606_sector001_macro": {
+      "x": 51992.35,
+      "y": 0.0,
+      "z": -1060.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_606_sector001_macro": {
+      "x": -127513.9,
+      "y": 0.0,
+      "z": 82085.13,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_606_sector001_macro": {
+      "x": 133484.8,
+      "y": 0.0,
+      "z": 131372.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_606_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_606_sector001_macro": {
+      "x": -22721.23,
+      "y": 0.0,
+      "z": -122067.9,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon5_gatezone_macro": {
+      "x": 40468.75,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon9_gatezone_macro": {
+      "x": 50000.0,
+      "y": 0.0,
+      "z": 200000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon11_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -40046.88,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector002shcon12_gatezone_macro": {
+      "x": 200000.0,
+      "y": 0.0,
+      "z": -25000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_606_sector002_macro": {
+      "x": -119849.7,
+      "y": 0.0,
+      "z": -93007.81,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_606_sector002_macro": {
+      "x": -107447.6,
+      "y": 0.0,
+      "z": 124554.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_606_sector002_macro": {
+      "x": -6696.777,
+      "y": 0.0,
+      "z": -60289.06,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_606_sector002_macro": {
+      "x": 50325.93,
+      "y": 0.0,
+      "z": 153750.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_606_sector002_macro": {
+      "x": 156852.0,
+      "y": 0.0,
+      "z": -61492.19,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector003shcon7_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -44060.06,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "tzonecluster_606_sector003shcon8_gatezone_macro": {
+      "x": -200000.0,
+      "y": 0.0,
+      "z": -25000.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_606_sector003_macro": {
+      "x": 115195.3,
+      "y": 0.0,
+      "z": 14787.11,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_606_sector003_macro": {
+      "x": -3023.438,
+      "y": 0.0,
+      "z": -6614.258,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_606_sector003_macro": {
+      "x": -144757.8,
+      "y": 0.0,
+      "z": -39335.94,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_606_sector003_macro": {
+      "x": 117000.0,
+      "y": 0.0,
+      "z": -133457.0,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_606_sector003_macro": {
+      "x": -46281.25,
+      "y": 0.0,
+      "z": 138438.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_604_sector001_macro": {
+      "x": -22312.77,
+      "y": 0.0,
+      "z": 118045.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_604_sector001_macro": {
+      "x": 121771.5,
+      "y": 0.0,
+      "z": 106741.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_604_sector001_macro": {
+      "x": -73025.88,
+      "y": 0.0,
+      "z": -1060.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_604_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_604_sector001_macro": {
+      "x": -30677.88,
+      "y": 0.0,
+      "z": -122754.3,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_607_sector001_macro": {
+      "x": -96044.66,
+      "y": 0.0,
+      "z": 106400.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_607_sector001_macro": {
+      "x": 23503.43,
+      "y": 0.0,
+      "z": 118619.1,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_607_sector001_macro": {
+      "x": 131077.1,
+      "y": 0.0,
+      "z": 2934.617,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_607_sector001_macro": {
+      "x": -76997.9,
+      "y": 0.0,
+      "z": -117440.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_607_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_601_sector001_macro": {
+      "x": -127517.8,
+      "y": 0.0,
+      "z": 34255.37,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_601_sector001_macro": {
+      "x": 85.55412,
+      "y": 0.0,
+      "z": 115545.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_601_sector001_macro": {
+      "x": 137328.5,
+      "y": 0.0,
+      "z": 138576.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_601_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_601_sector001_macro": {
+      "x": -129500.2,
+      "y": 0.0,
+      "z": -126969.5,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_608_sector001_macro": {
+      "x": 138576.6,
+      "y": 0.0,
+      "z": 85026.23,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_608_sector001_macro": {
+      "x": -115973.5,
+      "y": 0.0,
+      "z": 117824.6,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_608_sector001_macro": {
+      "x": -14468.67,
+      "y": 0.0,
+      "z": -1060.822,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_608_sector001_macro": {
+      "x": -128151.2,
+      "y": 0.0,
+      "z": -109468.4,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_608_sector001_macro": {
+      "x": 105554.4,
+      "y": 0.0,
+      "z": -127903.8,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone001_cluster_609_sector001_macro": {
+      "x": -93144.93,
+      "y": 0.0,
+      "z": 68418.03,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone002_cluster_609_sector001_macro": {
+      "x": -67369.28,
+      "y": 0.0,
+      "z": 148723.7,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone005_cluster_609_sector001_macro": {
+      "x": -60807.18,
+      "y": 0.0,
+      "z": -32170.72,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone004_cluster_609_sector001_macro": {
+      "x": 158696.5,
+      "y": 0.0,
+      "z": -62249.09,
+      "pitch": 0.0,
+      "roll": 0.0,
+      "yaw": 0.0
+   },
+   "zone003_cluster_609_sector001_macro": {
+      "x": 41106.73,
+      "y": 0.0,
+      "z": -87067.31,
       "pitch": 0.0,
       "roll": 0.0,
       "yaw": 0.0

@@ -23,7 +23,7 @@ It uses colors for highlighting:
     * The filename should end with `.xml.gz`
 4. Pipe your savefile into the python script
     * Windows: `TODO`
-    * Linux: `python3 x4_vault_finder.py < $HOME/.config/EgoSoft/X4/<user-id>/save/<name>.xml.gz`
+    * Linux: `python3 x4-vault-finder.py < $HOME/.config/EgoSoft/X4/<user-id>/save/<name>.xml.gz`
 5. A browser window will open
 6. Click a sector on the left to see its map. The plot is 3D and can be moved with the mouse. Points of interest are highlighted.
 
@@ -33,4 +33,4 @@ It uses colors for highlighting:
 * The savefile is not modified
 * You only need python and a browser, no external dependencies need to be installed
 * The python script uses little memory by streaming the savefile in a single pass and keeping only relevant data
-* Thanks to the [X4-Info-Miner](https://github.com/TuxInvader/X4-Info-Miner) project for the offsets needed to calculate object positions
+* Thanks to the [X4-Info-Miner](https://github.com/TuxInvader/X4-Info-Miner) project for developing the x4-cat-miner.py script
