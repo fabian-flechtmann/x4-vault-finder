@@ -32,4 +32,5 @@ It uses colors for highlighting:
 * The savefile is not modified
 * You only need python and a browser, no external dependencies need to be installed
 * The python script uses little memory by streaming the savefile in a single pass and keeping only relevant data
+* When a new DLC is released, the x4-data-extractor.py script needs to be run again
 * Thanks to the [X4-Info-Miner](https://github.com/TuxInvader/X4-Info-Miner) project for developing the x4-cat-miner.py script
