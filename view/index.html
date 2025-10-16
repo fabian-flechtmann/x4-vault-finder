@@ -14,8 +14,8 @@
                 else if (o["class"] == "station") {
                     return "silver"
                 }
-                else if (o["class"] == "gate") {
-                    return "gold"
+                if (o["class"].startsWith("ship")) {
+                    return "goldenrod"
                 }
                 else if (o["has_blueprints"]){
                     return "dodgerblue"
@@ -27,15 +27,15 @@
                     return "mediumvioletred"
                 }
                 else {
-                    return "peru"
+                    return "saddlebrown"
                 }
             }
             function getHoverText(o) {
                 if (o["class"] == "station") {
                     return o["owner"] + " station"
                 }
-                if (o["class"] == "gate") {
-                    return "gate"
+                if (o["class"].startsWith("ship")) {
+                    return "Abandoned ship (" + o["macro"] + ")"
                 }
                 else if (o["has_blueprints"]) {
                     return "Vault with blueprints"
@@ -51,6 +51,11 @@
                 }
             }
             function show(sector_id) {
+                for (let e of document.getElementsByClassName("sector")) {
+                    e.classList.remove("active")
+                }
+                document.getElementById(sector_id).classList.add("active")
+
                 let sector = data.sectors[sector_id]
                 let objects = Object.values(sector["objects"])
                 let points = [{
@@ -106,7 +111,13 @@
                         }
                     }
                 };
-                Plotly.newPlot("content", points, layout);
+                setTimeout(
+                    () => {
+                        document.getElementById("plot").innerHTML = "";
+                        Plotly.newPlot("plot", points, layout);
+                    },
+                    1
+                );
             }
             function maybe_loot_tag(sector_data) {
                 let has_blueprints = false;
@@ -143,6 +154,21 @@
                     return ""
                 }
             }
+            function maybe_ship_tag(sector_data) {
+                let has_abandoned_ship = false;
+                for (let [code, object_data] of Object.entries(sector_data["objects"])) {
+                    if (object_data["class"].startsWith("ship_")) {
+                        has_abandoned_ship = true;
+                        break;
+                    }
+                }
+                if (has_abandoned_ship) {
+                    return `<span class="tag ship">Abandoned ship</span>`
+                }
+                else {
+                    return ""
+                }
+            }
             function maybe_khaak_tag(sector_data) {
                 let has_khaak_station = false;
                 for (let [code, object_data] of Object.entries(sector_data["objects"])) {
@@ -173,11 +199,12 @@
                     let sector_name = sector_names[i]["name"]
                     let sector_data = data["sectors"][sector_id]
                     let html = `
-                    <div>
+                    <div class="sector" id="${sector_id}">
                         <a onclick="show('${sector_id}')" class="sector">
                             ${sector_name}
                         </a>
                         ${maybe_loot_tag(sector_data)}
+                        ${maybe_ship_tag(sector_data)}
                         ${maybe_khaak_tag(sector_data)}
                     </div>
                     `
@@ -185,13 +212,14 @@
                 }
             });
             window.addEventListener("resize", () => {
-                Plotly.Plots.resize("content");
+                Plotly.Plots.resize("plot");
             });
         </script>
         <style>
             html {
-                height: 100%;
+                color: #fafafa;
                 font-family: ui-sans-serif,-apple-system,system-ui,Segoe UI,Helvetica,Apple Color Emoji,Arial,sans-serif,Segoe UI Emoji,Segoe UI Symbol;
+                height: 100%;
             }
 
             body {
@@ -200,21 +228,26 @@
                 margin: 0;
             }
 
+            div.sector.active {
+                background-color: #fafafa;
+            }
+
             a {
-                color: #fafafa;
                 cursor: pointer;
-                margin-left: 6px;
+                margin: 0 6px;
+            }
+
+            div.sector.active > a {
+                color: black;
             }
 
             .tag {
                 display: inline-block;
-                color: #fafafa;
                 font-size: 0.7rem;
                 font-weight: bold;
                 border-radius: 4px;
-                padding: 2px 6px;
-                margin-left: 6px;
-                vertical-align: middle;
+                padding: 2px 4px;
+                margin: 2px 0px;
             }
 
             .blueprints {
@@ -229,8 +262,12 @@
                 background: blueviolet;
             }
 
+            .ship {
+                background: goldenrod;
+            }
+
             .empty {
-                background: peru;
+                background: saddlebrown;
             }
 
             .khaak {
@@ -249,8 +286,8 @@
                 width: 20%;
             }
 
-            #content {
-                float: left;
+            #plot {
+                float: right;
                 height: 100%;
                 width: 80%;
             }
@@ -259,7 +296,7 @@
     <body>
         <div id="wrapper">
             <div id="sidebar"></div>
-            <div id="content"></div>
+            <div id="plot">Please select a sector</div>
         </div>
     </body>
 </html>
