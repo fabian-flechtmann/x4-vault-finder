@@ -104,11 +104,6 @@ def processOffsets( xmlstrings ):
                     position['x'] += float(objpos.get('x')) if 'x' in objpos.attrib else 0.0
                     position['y'] += float(objpos.get('y')) if 'y' in objpos.attrib else 0.0
                     position['z'] += float(objpos.get('z')) if 'z' in objpos.attrib else 0.0
-                if objrot != None:
-                    conn_has_offset = True
-                    position['pitch'] += float(objrot.get('pitch')) if 'pitch' in objrot.attrib else 0.0
-                    position['roll'] += float(objrot.get('roll')) if 'roll' in objrot.attrib else 0.0
-                    position['yaw'] += float(objrot.get('yaw')) if 'yaw' in objrot.attrib else 0.0
                 if conn_has_offset:
                     macro = conn.find("./macro")
                     if macro != None:
@@ -199,5 +194,5 @@ for file in nameMappingFiles:
 with open("x4-offsets.json", "w", encoding='utf-8') as jsonfile:
     jsonfile.write( json.dumps(offsets, indent=3, ensure_ascii=False) )
 
-with open("x4-names.json", "w", encoding='utf-8') as jsonfile:
+with open("x4-sector-names.json", "w", encoding='utf-8') as jsonfile:
     jsonfile.write( json.dumps(sectorNames, indent=3, ensure_ascii=False) )

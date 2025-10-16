@@ -122,7 +122,7 @@ def is_vault_loot(path):
 
 def main():
     global x4_names, x4_offsets
-    with open(CWD / 'x4-names.json', 'r') as f:
+    with open(CWD / 'x4-sector-names.json', 'r') as f:
         x4_names = json.load(f)
     with open(CWD / 'x4-offsets.json', 'r') as f:
         x4_offsets = json.load(f)
