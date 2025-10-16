@@ -199,14 +199,12 @@
                     let sector_name = sector_names[i]["name"]
                     let sector_data = data["sectors"][sector_id]
                     let html = `
-                    <div class="sector" id="${sector_id}">
-                        <a onclick="show('${sector_id}')" class="sector">
-                            ${sector_name}
-                        </a>
+                    <a class="sector" id="${sector_id}" onclick="show('${sector_id}')">
+                        ${sector_name}
                         ${maybe_loot_tag(sector_data)}
                         ${maybe_ship_tag(sector_data)}
                         ${maybe_khaak_tag(sector_data)}
-                    </div>
+                    </a>
                     `
                     sidebar.insertAdjacentHTML("beforeend", html)
                 }
@@ -228,20 +226,23 @@
                 margin: 0;
             }
 
-            div.sector.active {
-                background-color: #fafafa;
-            }
-
-            a {
+            a.sector {
                 cursor: pointer;
+                display: block;
                 margin: 0 6px;
             }
 
-            div.sector.active > a {
+            a.sector:hover {
+                background-color: gray;
+            }
+
+            a.sector.active {
+                background-color: #fafafa;
                 color: black;
             }
 
             .tag {
+                color: #fafafa;
                 display: inline-block;
                 font-size: 0.7rem;
                 font-weight: bold;
@@ -296,7 +297,7 @@
     <body>
         <div id="wrapper">
             <div id="sidebar"></div>
-            <div id="plot">Please select a sector</div>
+            <div id="plot">Please select a sector from the list on the left</div>
         </div>
     </body>
 </html>
