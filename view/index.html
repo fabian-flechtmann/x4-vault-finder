@@ -4,51 +4,76 @@
         <script type="text/javascript" src="plotly-3.1.1.min.js"></script>
         <script type="text/javascript" src="data.js"></script>
         <script type="text/javascript">
-            function getColor(o) {
+            function getStyle(o) {
                 if (o["class"] == "station" && o["owner"] == "khaak") {
-                    return "crimson"
+                    return [
+                        "Khaak Station",
+                        "crimson",
+                        {}
+                    ]
                 }
                 else if (o["class"] == "station" && o["owner"] == "player") {
-                    return "green"
+                    return [
+                        "Player Station",
+                        "green",
+                        {}
+                    ]
                 }
                 else if (o["class"] == "station") {
-                    return "silver"
+                    return [
+                        capitalizeFirstLetter(o["owner"]) + " Station",
+                        "silver",
+                        {}
+                    ]
                 }
-                if (o["class"].startsWith("ship")) {
-                    return "goldenrod"
+                else if (o["class"] == "gate") {
+                    return [
+                        "Gate to " + o["target_name"],
+                        "rgba(0, 0, 0, 0)",
+                        {
+                            color: "#fafafa",
+                            width: 1
+                        }
+                    ]
                 }
-                else if (o["has_blueprints"]){
-                    return "dodgerblue"
-                }
-                else if (o["has_wares"]){
-                    return "blueviolet"
-                }
-                else if (o["has_signalleak"]){
-                    return "mediumvioletred"
-                }
-                else {
-                    return "saddlebrown"
-                }
-            }
-            function getHoverText(o) {
-                if (o["class"] == "station") {
-                    return o["owner"] + " station"
-                }
-                if (o["class"].startsWith("ship")) {
-                    return "Abandoned ship (" + o["macro"] + ")"
+                else if (o["class"].startsWith("ship")) {
+                    return [
+                        "Abandoned Ship (" + o["macro"] + ")",
+                        "goldenrod",
+                        {}
+                    ]
                 }
                 else if (o["has_blueprints"]) {
-                    return "Vault with blueprints"
+                    return [
+                        "Vault with Blueprints",
+                        "dodgerblue",
+                        {}
+                    ]
                 }
                 else if (o["has_wares"]) {
-                    return "Vault with wares"
+                    return [
+                        "Vault with Wares",
+                        "blueviolet",
+                        {}
+                    ]
                 }
                 else if (o["has_signalleak"]) {
-                    return "Vault with signalleak"
+                    return [
+                        "Vault with Signal Leak",
+                        "mediumvioletred",
+                        {}
+                    ]
                 }
                 else {
-                    return "Vault (empty)"
+                    return [
+                        "Vault (empty)",
+                        "saddlebrown",
+                        {}
+                    ]
                 }
+            }
+            function capitalizeFirstLetter(string) {
+                return string.charAt(0).toUpperCase() + string.slice(1)
             }
             function show(sector_id) {
                 for (let e of document.getElementsByClassName("sector")) {
@@ -58,24 +83,28 @@
 
                 let sector = data.sectors[sector_id]
                 let objects = Object.values(sector["objects"])
-                let points = [{
-                    x: objects.map(o => o["x"]),
-                    y: objects.map(o => o["y"]),
-                    z: objects.map(o => o["z"]),
-                    hoverinfo: 'text',
-                    hovertext: objects.map(getHoverText),
-                    marker: {
-                        size: 5,
-                        color: objects.map(getColor)
-                    },
-                    mode: "markers+text",
-                    name: sector,
-                    text: objects.map(o => o["code"]),
-                    textfont: {
-                        color: "#fafafa"
-                    },
-                    type: "scatter3d"
-                }]
+                let points = objects.map(o => {
+                    return {
+                        x: [o["x"]],
+                        y: [o["y"]],
+                        z: [o["z"]],
+                        hoverinfo: 'text',
+                        hovertext: getStyle(o)[0],
+                        marker: {
+                            size: 5,
+                            color: getStyle(o)[1],
+                            line: getStyle(o)[2]
+                        },
+                        mode: "markers+text",
+                        name: sector,
+                        text: o["code"],
+                        textfont: {
+                            color: "#fafafa"
+                        },
+                        type: "scatter3d"
+                    }
+                })
+                console.log(points)
                 let layout = {
                     margin: {
                         l: 0,
@@ -139,13 +168,13 @@
                     }
                 }
                 if (has_blueprints) {
-                    return `<span class="tag blueprints">Vault with blueprints</span>`
+                    return `<span class="tag blueprints">Vault with Blueprints</span>`
                 }
                 else if (has_wares) {
-                    return `<span class="tag wares">Vault with wares</span>`
+                    return `<span class="tag wares">Vault with Wares</span>`
                 }
                 else if (has_signalleak) {
-                    return `<span class="tag signalleak">Vault with signalleak</span>`
+                    return `<span class="tag signalleak">Vault with Signal Leak</span>`
                 }
                 else if (has_empty_vault) {
                     return `<span class="tag empty">Vault (empty)</span>`
@@ -163,7 +192,7 @@
                     }
                 }
                 if (has_abandoned_ship) {
-                    return `<span class="tag ship">Abandoned ship</span>`
+                    return `<span class="tag ship">Abandoned Ship</span>`
                 }
                 else {
                     return ""
@@ -178,7 +207,7 @@
                     }
                 }
                 if (has_khaak_station) {
-                    return `<span class="tag khaak">Khaak station</span>`
+                    return `<span class="tag khaak">Khaak Station</span>`
                 }
                 else {
                     return ""
@@ -237,6 +266,7 @@
                 cursor: pointer;
                 display: block;
                 margin: 0 6px;
+                padding: 0 0 0 3px;
             }
 
             a.sector:hover {

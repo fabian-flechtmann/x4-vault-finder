@@ -1,8 +1,8 @@
 # X4 Vault Finder
 
-This is a visualisation tool for X4 save files. It shows a 3D plot for every sector. Stations and vaults are visible, as well as their state.
+This is a visualisation toolchain for X4 save files. It shows a 3D plot for every sector in the browser.
 
-It uses colors for highlighting:
+It uses colors for different objects:
 
 * Blue for vaults with collectable blueprints
 * Purple for vaults with collectable wares
@@ -11,20 +11,22 @@ It uses colors for highlighting:
 * Red for khaak stations
 * Yellow for abandoned ships
 * Green for player stations
+* Silver for other stations
+* A silver ring for gates
 
 <img width="939" height="817" alt="Screenshot_20251015_095808" src="https://github.com/user-attachments/assets/13c8fa99-07ff-4cf4-bf7d-f5790c7acf0c" />
 
 ## How to run
 
-1. Clone this repository
+1. Clone this repository or download it as a zip file and extract it locally
 2. On your local machine open a shell in this directory
-3. Pipe your savefile into the python script
-    * Windows
+3. Pipe your savefile into the x4-vault-finder.py script
+    * Windows (use cmd.exe, not powershell):
         * `python x4-vault-finder.py < "%USERPROFILE%\Documents\Egosoft\X4\<user-id>\save\<name>.xml.gz"`
     * Linux:
         * `python3 x4-vault-finder.py < "$HOME/.config/EgoSoft/X4/<user-id>/save/<name>.xml.gz"`
-4. A browser window will open
-5. Click a sector on the left to see its map. The plot is 3D and can be moved with the mouse. Points of interest are highlighted.
+4. When the script finishes, a browser window will open
+5. Click a sector on the left to show its 3D plot
 
 
 ## Technical details
