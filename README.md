@@ -14,7 +14,7 @@ It uses colors for different objects:
 * Silver for other stations
 * A silver ring for gates
 
-<img width="939" height="817" alt="Screenshot_20251015_095808" src="https://github.com/user-attachments/assets/13c8fa99-07ff-4cf4-bf7d-f5790c7acf0c" />
+<img width="1549" height="813" alt="Screenshot_20251018_214527" src="https://github.com/user-attachments/assets/df51853e-7896-48cc-9011-f80e973de335" />
 
 ## How to run
 
