@@ -155,7 +155,8 @@ function updateSidebar() {
             maybe_ship_tag(sectorData),
             maybe_khaak_tag(sectorData),
             maybe_headquarter_tag(sectorData),
-            maybe_unexplored_tag(sectorData)
+            maybe_unexplored_tag(sectorData),
+            maybe_player_tag(sectorData)
         ].join('');
         
         // Create searchable text from name and tag contents

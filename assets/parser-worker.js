@@ -167,6 +167,21 @@ class X4SaveParser {
             this.isSuperHighwayGate(path.slice(0, -1))
         );
     }
+    
+    isModule(path) {
+        const last = path[path.length - 1];
+        return last.name === 'component' && 
+            ['production', 'storage', 'dockarea', 'pier', 'defence', 'module', 'buildmodule'].includes(last.attributes.class || '');
+    }
+
+    getAncestorStation(path) {
+        for (let i = path.length - 2; i >= 0; i--) {
+            if (path[i].name === 'component' && path[i].attributes.class === 'station') {
+                return path[i];
+            }
+        }
+        return null;
+    }
 
     maybeStoreComponentPosition(path) {
         if (this.isAtTags(path, 'component', 'offset', 'position')) {
@@ -221,6 +236,10 @@ class X4SaveParser {
                 macro: macro,
                 owner: attrib.owner || ''
             };
+            
+            if (attrib.name) {
+                obj.name = this.resolveName(attrib.name);
+            }
             
             if (isStation && attrib.state === 'wreck') {
                 obj.is_wreck = true;
@@ -280,6 +299,17 @@ class X4SaveParser {
             if (this.data.sectors[this.currentSector]?.objects[code]) {
                 this.data.sectors[this.currentSector].objects[code].is_active = 
                     path[path.length - 1].attributes.active !== '0';
+            }
+        } else if (this.isModule(path)) {
+            const stationNode = this.getAncestorStation(path);
+            if (stationNode) {
+                const stationCode = stationNode.attributes.code;
+                const stationObj = this.data.sectors[this.currentSector]?.objects[stationCode];
+                if (stationObj) {
+                    if (!stationObj.modules) stationObj.modules = {};
+                    const macro = attrib.macro || 'unknown';
+                    stationObj.modules[macro] = (stationObj.modules[macro] || 0) + 1;
+                }
             }
         }
     }

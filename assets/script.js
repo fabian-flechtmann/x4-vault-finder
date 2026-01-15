@@ -19,10 +19,11 @@ function getStyle(o) {
         ]
     }
     else if (o["class"] == "station" && o["owner"] == "player") {
-        var title = "Player Station"
+        var title = o["name"] || "Player Station"
         if (o["is_wreck"]) {
             title += " (destroyed)"
         }
+        title = appendModules(title, o)
         return [
             title,
             "green"
@@ -158,6 +159,20 @@ function maybe_khaak_tag(sector_data) {
     }
     else if (has_khaak_nest) {
         return `<span class="tag khaak">Khaak Nest</span>`
+    }
+    else {
+        return ""
+    }
+}
+function maybe_player_tag(sector_data) {
+    let station_count = 0;
+    for (let [code, object_data] of Object.entries(sector_data["objects"])) {
+        if (object_data["class"] == "station" && object_data["owner"] == "player" && !object_data["is_wreck"]) {
+            station_count += 1;
+        }
+    }
+    if (station_count > 0) {
+        return `<span class="tag player">${station_count} Player Station${station_count > 1 ? "s" : ""}</span>`
     }
     else {
         return ""
@@ -403,3 +418,24 @@ function show(sector_id, source) {
 window.addEventListener("resize", () => {
     Plotly.Plots.resize("plot");
 });
+
+function formatMacroName(macro) {
+    return macro
+        .replace(/_macro$/, '')
+        .replace(/_/g, ' ')
+        .replace(/\b\w/g, l => l.toUpperCase());
+}
+
+function appendModules(title, o) {
+    if (o["modules"]) {
+        let modules = [];
+        for (let [macro, count] of Object.entries(o["modules"])) {
+            modules.push(count + "x " + formatMacroName(macro));
+        }
+        modules.sort();
+        if (modules.length > 0) {
+            title += "<br>Modules:<br>" + modules.join("<br>");
+        }
+    }
+    return title;
+}
