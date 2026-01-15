@@ -6,6 +6,57 @@ window.data = { sectors: {} };
 // Base path for loading assets
 const basePath = window.location.pathname.replace(/\/[^\/]*$/, '') || '.';
 
+// IndexedDB Configuration
+const DB_NAME = 'X4VaultFinderDB';
+const DB_VERSION = 1;
+const STORE_NAME = 'saveData';
+
+// IndexedDB Helpers
+function openDB() {
+    return new Promise((resolve, reject) => {
+        const request = indexedDB.open(DB_NAME, DB_VERSION);
+        request.onerror = () => reject(request.error);
+        request.onsuccess = () => resolve(request.result);
+        request.onupgradeneeded = (event) => {
+            const db = event.target.result;
+            if (!db.objectStoreNames.contains(STORE_NAME)) {
+                db.createObjectStore(STORE_NAME);
+            }
+        };
+    });
+}
+
+async function saveToDB(data) {
+    try {
+        const db = await openDB();
+        return new Promise((resolve, reject) => {
+            const transaction = db.transaction(STORE_NAME, 'readwrite');
+            const store = transaction.objectStore(STORE_NAME);
+            const request = store.put(data, 'currentSave');
+            request.onerror = () => reject(request.error);
+            request.onsuccess = () => resolve();
+        });
+    } catch (e) {
+        console.warn('Failed to save to IndexedDB:', e);
+    }
+}
+
+async function loadFromDB() {
+    try {
+        const db = await openDB();
+        return new Promise((resolve, reject) => {
+            const transaction = db.transaction(STORE_NAME, 'readonly');
+            const store = transaction.objectStore(STORE_NAME);
+            const request = store.get('currentSave');
+            request.onerror = () => reject(request.error);
+            request.onsuccess = () => resolve(request.result);
+        });
+    } catch (e) {
+        console.warn('Failed to load from IndexedDB:', e);
+        return null;
+    }
+}
+
 // Load configuration files
 async function loadConfig() {
     const fetchJson = async (url) => {
@@ -72,6 +123,7 @@ async function handleFileUpload(file) {
                 
                 // Update global data and refresh UI
                 window.data = data;
+                saveToDB(data);
                 updateSidebar();
                 
                 // Show the filter input
@@ -185,3 +237,27 @@ function filterSectors(query) {
         }
     });
 }
+
+// Initialize from storage if available
+document.addEventListener('DOMContentLoaded', async () => {
+    const statusEl = document.getElementById('upload-status');
+    
+    // Only attempt load if we haven't already loaded something
+    if (Object.keys(window.data.sectors).length === 0) {
+        const savedData = await loadFromDB();
+        if (savedData && savedData.sectors && Object.keys(savedData.sectors).length > 0) {
+            window.data = savedData;
+            updateSidebar();
+            
+            const filterInput = document.getElementById('sector-filter');
+            if (filterInput) {
+                filterInput.style.display = 'block';
+            }
+            
+            if (statusEl) {
+                statusEl.textContent = 'Restored from browser storage';
+                setTimeout(() => { statusEl.textContent = ''; }, 3000);
+            }
+        }
+    }
+});
