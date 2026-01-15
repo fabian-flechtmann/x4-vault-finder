@@ -141,6 +141,10 @@ a.sector.active {
     background-color: crimson;
 }
 
+.player {
+    background-color: green;
+}
+
 #wrapper {
     height: 100%;
     width: 100%;
